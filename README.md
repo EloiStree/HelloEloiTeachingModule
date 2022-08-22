@@ -62,7 +62,7 @@ _https://eloistree.page.link/discord_
 - [Hello Android with Unity](HelloAndroid/index.md)🚷 , 3-5 days: Learn how to create and publish and Android application with Unity on Goole Store. (For Beginner)
 - Learn to fetch the best of your computer
   - [Hello Unity Compute Shader](HelloUnity/ComputeShader/index.md)🚷 , 1-3 days: Learn to use the power of your Graphic card by using Unity Computer Shader and C#
-  - [Hello Unity Job System](HelloUnity/ComputeShader/index.md)🚷 , 1-3 days: Learn to use the power of all your CPU thread by using Unity C# Job System 
+  - [Hello Unity Job System](HelloUnity/JobSystem/index.md)🚷 , 1-3 days: Learn to use the power of all your CPU thread by using Unity C# Job System 
 
 
 ## Unity Advance Module 
@@ -74,12 +74,12 @@ _https://eloistree.page.link/discord_
 - [Hello UDP with Unity](HelloUnity/UDP/index.md)🚷 , 3-5 days: Learn how to create a local UDP connection between applications with Unity.
 - [Hello Vuforia](HelloUnity/Vuforia/index.md)🚷 , 3-5 days: Learn how to create augmented reality application with image(s) tracked.
 - [Hello Spacial Anchor](HelloUnity/SpacialAnchor/index.md)🚷 , 3-5 days: Learn how to create augmented reality application from the environment.
-- [Hello package manager: Magic Door 24](HelloUnity/SpacialAnchor/index.md)🚷 , 5 days: Learn to collaborate on a Unity project with 12-24+ people in it with the Unity package manager through game call Magic Door.
+- [Hello package manager: Magic Door 24](HelloUnity/MagicDoor/index.md)🚷 , 5 days: Learn to collaborate on a Unity project with 12-24+ people in it with the Unity package manager through game call Magic Door.
 
 ## Specific Topic Module
-- [Hello Ethereum for Beginner](Ethereum/HelloTheory/index.md)🚷 , 3-5 days: Learn the basic of Ethereum story and history. And learn to use it.
-- [Hello Ethereum for Unity](Ethereum/HelloTheory/index.md)🚷 , 3-5 days: Learn code your first transaction on Etherum with: [Etherscan](https://etherscan.io/), [Infuria](https://infura.io/)
-- [Hello Hackathon](HelloJam/FirstHackathon/index.md)🚷 , 1-2 days: Learn/prepare yourself to a first hackathon (Tips, Timing, Concept, How to pitch, Value Canvas and 
+- [Hello Ethereum for Beginner](HelloEthereum/HelloTheory/index.md)🚷 , 3-5 days: Learn the basic of Ethereum story and history. And learn to use it.
+- [Hello Ethereum for Unity](HelloEthereum/Unity/index.md)🚷 , 3-5 days: Learn code your first transaction on Etherum with: [Etherscan](https://etherscan.io/), [Infuria](https://infura.io/)
+- [Hello Hackathon](HelloJam/FirstHackathon/index.md)🚷 , 1-2 days: Learn/prepare yourself to a first hackathon: Tips, Timing, Concept, How to pitch, Value Canvas...
   - [What and How to Pitch?](HelloJam/PitchCoach/index.md)🚷 , 1 days: Learn to prepare your concept to be able to pitch it.  
   - [Value Canvas and BMC](HelloJam/BMC/index.md)🚷 , 1 days: Learn your project weekness by stressing it on a BMC. 
 - [Hello GCode for CNC and Printer](HelloGCode/index.md)🚷 , 3-5 days: Learn to create GCode for CNC and Printer with C# through USB Connection.
@@ -93,7 +93,7 @@ _https://eloistree.page.link/discord_
 ### Advance
 #### Video Game botting
 - [Hello Bot!](OMI/HelloBot/index.md)🚷 , 3-5 days: Learn in C# and/or Unity to create the logic of a bot in video games.
-- [Hello Multiboxing](OMI/HelloBot/index.md)🚷 , 3-5 days: Learn in C# and/or Unity to create the logic of several bots in video games (Network & Multiboxing).
+- [Hello Multiboxing](OMI/HelloBots/index.md)🚷 , 3-5 days: Learn in C# and/or Unity to create the logic of several bots in video games (Network & Multiboxing).
 - [Learn C# by create bot in World of Warcraft ](OMI/HelloWowBotting/index.md)🚷, 3-10 days: Learn C# by learning how to create a bot in World of Warcraft.
 
 --------------------------------------------------------------
