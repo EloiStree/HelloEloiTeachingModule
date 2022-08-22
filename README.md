@@ -14,6 +14,8 @@ _This page is under construction. The following label helps you know what topic 
 _Ping me at anytime if you need one of the topic:_  
 _https://eloistree.page.link/discord_  
   
+_Feel free to propose idea if you think it is in my range of skills and need a <5 days module._  
+  
 ## The basic
 
 ### Software
