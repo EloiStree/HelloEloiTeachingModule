@@ -82,9 +82,9 @@ you can find topic that I would love to give as workshop.
 -  
 ### Advance
 #### Video Game botting
-- [Hello Bot!](OMI/HelloBot/Index.md) , 1-5 days: Learn in C# and/or Unity to create the logic of a bot in video games.
-- [Hello Multiboxing](OMI/HelloBot/Index.md) , 1-5 days: Learn in C# and/or Unity to create the logic of several bots in video games (Network & Multiboxing).
-- [Learn C# by create bot in World of Warcraft ](OMI/HelloWowBotting/Index.md), 1-5 days: Learn C# by learning how to create a bot in World of Warcraft.
+- [Hello Bot!](OMI/HelloBot/Index.md) , 3-5 days: Learn in C# and/or Unity to create the logic of a bot in video games.
+- [Hello Multiboxing](OMI/HelloBot/Index.md) , 3-5 days: Learn in C# and/or Unity to create the logic of several bots in video games (Network & Multiboxing).
+- [Learn C# by create bot in World of Warcraft ](OMI/HelloWowBotting/Index.md), 3-10 days: Learn C# by learning how to create a bot in World of Warcraft.
 
 --------------------------------------------------------------
 
