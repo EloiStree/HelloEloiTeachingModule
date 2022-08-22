@@ -74,7 +74,7 @@ _https://eloistree.page.link/discord_
 - [Hello UDP with Unity](HelloUnity/UDP/index.md)🚷 , 3-5 days: Learn how to create a local UDP connection between applications with Unity.
 - [Hello Vuforia](HelloUnity/Vuforia/index.md)🚷 , 3-5 days: Learn how to create augmented reality application with image(s) tracked.
 - [Hello Spacial Anchor](HelloUnity/SpacialAnchor/index.md)🚷 , 3-5 days: Learn how to create augmented reality application from the environment.
-- [Hello package manager: Magic Door 24](HelloUnity/SpacialAnchor/index.md)🚷 , 5 days: Learn to collaborate on a Unity project with 12-24+ people in it with the Unity package manager through game call Magic Door.
+- [Hello package manager: Magic Door 24](HelloUnity/MagicDoor/index.md)🚷 , 5 days: Learn to collaborate on a Unity project with 12-24+ people in it with the Unity package manager through game call Magic Door.
 
 ## Specific Topic Module
 - [Hello Ethereum for Beginner](Ethereum/HelloTheory/index.md)🚷 , 3-5 days: Learn the basic of Ethereum story and history. And learn to use it.
