@@ -34,7 +34,6 @@ you can find topic that I would love to give as workshop.
 - [Hello 3D Printing](Hello3DPrint/Index.md) , 1-5 days: Learn the basic of how to use 3D printer 
 - [Hello Fusion 360 for Printing](HelloFusion3603D/Index.md) , 3-5 days: Learn the basic of Fusion 360 in aim to print object (Beginner).
 - [Hello Fusion 360 for CNC wood cutting](HelloFusion360CNC/Index.md) , 3-5 days: Learn the basic of Fusion 360 in aim to cut through wood (Beginner).
-- [Hello GCode for CNC and Printer](HelloGCode/Index.md) , 3-5 days: Learn to create GCode for CNC and Printer with C# through USB Connection.
 - [Hello Arduino](HelloArduino/Index.md) , 3-5 days: Learn how to use Arduino by creating your own keyboard.
 
 ### VR AR
@@ -75,7 +74,8 @@ you can find topic that I would love to give as workshop.
 - [Hello Hackathon](HelloJam/FirstHackathon/Index.md) , 1-2 days: Learn/prepare yourself to a first hackathon (Tips, Timing, Concept, How to pitch, Value Canvas and 
   - [What and How to Pitch?](HelloJam/PitchCoach/Index.md) , 1 days: Learn to prepare your concept to be able to pitch it.  
   - [Value Canvas and BMC](HelloJam/BMC/Index.md) , 1 days: Learn your project weekness by stressing it on a BMC. 
-
+- [Hello GCode for CNC and Printer](HelloGCode/Index.md) , 3-5 days: Learn to create GCode for CNC and Printer with C# through USB Connection.
+- 
 ## OMI 
 
 ### Beginner
