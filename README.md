@@ -20,10 +20,12 @@ you can find topic that I would love to give as workshop.
   - [Hack your browser with Selenium](HelloCSharp/SeleniumOgame/Index.md)  , 4-5 days: Learn the basic of C# by doing Selenium script through your browser
   - [CodeInGame: Platinium Rift 2](HelloCSharp/CodeInGame/Index.md)  , 4-5 days: Learn by creating the intelligence of an AI
     - [Multiplayer C# Battle for beginner](HelloCSharp/CSharpBattle/Index.md)  , 4-5 days: Learn by compiting other of the workshop in a C# battle arena.
+  - [Twitch Game in C#](HelloCSharp/TwitchGame/Index.md), 3-5 days: Learn C# by doing a twitch game for your/a community.
 - [Hello Unity](HelloUnity/Index.md) , 4-5 days: Learn the basic of Unity (Beginner only)
   - [Basic of integrator Job](HelloUnity/Integrator/Index.md) , 2-5 days: Learn a junior job of the industry that is call integreator.
   - [Create toolboxes for Unity](HelloUnity/Toolboxes/Index.md) , 2-5 days: Recap of Git followed by how to create toolbox(package) in Unity.
 - [Hello C# in Unity](HelloUnity/Index.md) , 4-5 days: Learn the basic of scripting in Unity (Beginner only)
+- [Hello C# in Unity: Quaternion drill](HelloUnity/Quaternion/Index.md) , 3 days: Learn all tips and tricks on how to rotate objects in Unity (very important)
 
 
 ### "Hardware"
@@ -33,28 +35,53 @@ you can find topic that I would love to give as workshop.
 - [Hello GCode for CNC and Printer](HelloGCode/Index.md) , 3-5 days: Learn to create GCode for CNC and Printer with C# through USB Connection.
 - [Hello Arduino](HelloArduino/Index.md) , 3-5 days: Learn how to use Arduino by creating your own keyboard.
 
-
 ### VR AR
 
 - [Hello VR Theory and History](HelloVR/Theory/Index.md) , 1-2 days: Learn what is VR, test some headset and learn about the history behind the devices. 
 - [Hello VR Game Design](HelloVR/GameDesign/Index.md) , 1-5 days: Learn by booking through what exists how you can create VR game/app and what you need to know about. 
 - [Hello VR in Unity](HelloVR/FirstGame/Index.md) , 1-5 days: Create very basic game for VR in Unity. 
+- [Hello 360 photo application](HelloVR/360App/Index.md) , 4-5 days: Learn how to create 360 photo applications in Unity3D (For Beginner) 
 
 
 ## Advance
 
 - [Hello Arduino BLE](HelloArduinoBLE/Index.md) , 3-5 days: Learn to create BLE keyboard and communication between your Arduino and your computer.
+- [Hello Arduino HC05-06 and Classic Bluetooth](HelloArduinoHC06/Index.md) , 3-5 days: Learn to create Bluetooth classic communication between your Arduino and your phone/computer.
+- [Hello Kinect](HelloKinect/Index.md) , 1-2-5 days: Learn how to use a kinect (old and/or new) in Unity. (Can be linked to compute shader)
+- [Hello Android with Unity](HelloAndroid/Index.md) , 3-5 days: Learn how to create and publish and Android application with Unity on Goole Store. (For Beginner)
 
 
+- Learn to fetch the best of your computer
+  - [Hello Unity Compute Shader](HelloUnity/ComputeShader/Index.md) , 1-3 days: Learn to use the power of your Graphic card by using Unity Computer Shader and C#
+  - [Hello Unity Job System](HelloUnity/ComputeShader/Index.md) , 1-3 days: Learn to use the power of all your CPU thread by using Unity C# Job System 
 
 
 ## Unity Advance Module 
 
-d
+- [Hello Oculus Quest](HelloVR/OculusQuest/Index.md) , 3-5 days: Learn the basic of how to create a Oculus Quest 2 application.
+- [Hello Lynx R1](HelloVR/Lynx R1/Index.md) , 3-5 days: Learn the basic of how to create a Lynx XR application.
+- [Hello Unity Input System with OpenXR](HelloVR/OpenXR/Index.md) , 3-5 days: Learn the basic of how to create a game with OpenXR that work on all devices.
+- [Hello MQTT with Unity](HelloUnity/MQTT/Index.md) , 3-5 days: Learn how to create a communication between applications with Unity.
+- [Hello UDP with Unity](HelloUnity/UDP/Index.md) , 3-5 days: Learn how to create a local UDP connection between applications with Unity.
+- [Hello Vuforia](HelloUnity/Vuforia/Index.md) , 3-5 days: Learn how to create augmented reality application with image(s) tracked.
+- [Hello Spacial Anchor](HelloUnity/SpacialAnchor/Index.md) , 3-5 days: Learn how to create augmented reality application from the environment.
+
+## Specific Topic Module
+- [Hello Ethereum for Beginner](Ethereum/HelloTheory/Index.md) , 3-5 days: Learn the basic of Ethereum story and history. And learn to use it.
+- [Hello Ethereum for Unity](Ethereum/HelloTheory/Index.md) , 3-5 days: Learn code your first transaction on Etherum with: [Etherscan](https://etherscan.io/), [Infuria](https://infura.io/)
+- [Hello Hackathon](HelloJam/FirstHackathon/Index.md) , 1-2 days: Learn/prepare yourself to a first hackathon (Tips, Timing, Concept, How to pitch, Value Canvas and BMC)
 
 ## OMI 
 
-d
+### Beginner
+- [Piano TV for Kids](OMI/HelloPianoTV/index.md), 1-5 days: In aim to become vidoe game tester, learn how to use/explote bug in games. Then to report them correctly to be fixed.
+- [Hello First Keyboard for Kids](OMI/HelloFirstKeyboard/index.md),1-3 days: Learn the basic of Arduino and create your a controller for your game(s).
+-  
+### Advance
+#### Video Game botting
+- [Hello Bot!](OMI/HelloBot/Index.md) , 1-5 days: Learn in C# and/or Unity to create the logic of a bot in video games.
+- [Hello Multiboxing](OMI/HelloBot/Index.md) , 1-5 days: Learn in C# and/or Unity to create the logic of several bots in video games (Network & Multiboxing).
+   
 
 
 ## Exploring Module
@@ -70,6 +97,37 @@ Example of topic I have in my to-do-list:
 - Lynx VR: Can we do augmented reality application with the Lynx? If yes what are the condition.
 - Oculus Calibration: Is Oculus precise enough to be able to do measure applications for the market.
 - PayPal API: Is it easy to use PayPal in application? If yes, is it easy enough for beginner in C#?
+- Audio Spectrogram: Learn thow to use a spectrogram of sound to detect specfic sound.
 - ...
+
+
+# Refactoring
+
+Something that I would love to do is to teach by refactoring my old projects.
+I have 200-400 small projects on my harddrive on all the topic: Wifi, Rest, API, AR, VR, Bluetooth, Arduino Conneciton, Kinect...
+
+The idea would be to spend 1-2 days coarching students that are self-teaching  C#/Unity in the same room.
+And prepare an exercice for 1 day where, I teach and make praticing the participant  on what I learn in the past based on the refactored code.
+
+List of cool topic:
+- Scan a building with Zed-Mini or Hololens (Could use AR Phone)
+- Make application display context based on Wifi detected around
+
+
+
+# Own Hardware
+
+- Kinect 360 & Kinect One
+- Zed Mini
+- Oculus 1, Quest 1-2
+- Theta S
+- Arduino and boxes of stuffs
+- 3D Printer Ender
+- CNC 3018-Pro 
+- 
+
+
+
+
 
 
