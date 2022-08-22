@@ -32,6 +32,13 @@ In the idea of live by teaching small module where the participant and me enjoy 
 - [Hello Arduino](HelloArduino/Index.md) , 3-5 days: Learn how to use Arduino by creating your own keyboard.
 
 
+## VR AR
+
+- [Hello VR Theory and History](HelloVR/Theory/Index.md) , 1-2 days: Learn what is VR, test some headset and learn about the history behind the devices. 
+- [Hello VR Game Design](HelloVR/GameDesign/Index.md) , 1-5 days: Learn by booking through what exists how you can create VR game/app and what you need to know about. 
+- [Hello VR in Unity](HelloVR/FirstGame/Index.md) , 1-5 days: Create very basic game for VR in Unity. 
+
+
 ## Advance
 
 - [Hello Arduino BLE](HelloArduinoBLE/Index.md) , 3-5 days: Learn to create BLE keyboard and communication between your Arduino and your computer.
