@@ -59,7 +59,7 @@ you can find topic that I would love to give as workshop.
 ## Unity Advance Module 
 
 - [Hello Oculus Quest](HelloVR/OculusQuest/Index.md) , 3-5 days: Learn the basic of how to create a Oculus Quest 2 application.
-- [Hello Lynx R1](HelloVR/Lynx R1/Index.md) , 3-5 days: Learn the basic of how to create a Lynx XR application.
+- [Hello Lynx R1](HelloVR/LynxR1/Index.md) , 3-5 days: Learn the basic of how to create a Lynx XR application.
 - [Hello Unity Input System with OpenXR](HelloVR/OpenXR/Index.md) , 3-5 days: Learn the basic of how to create a game with OpenXR that work on all devices.
 - [Hello MQTT with Unity](HelloUnity/MQTT/Index.md) , 3-5 days: Learn how to create a communication between applications with Unity.
 - [Hello UDP with Unity](HelloUnity/UDP/Index.md) , 3-5 days: Learn how to create a local UDP connection between applications with Unity.
