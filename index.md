@@ -7,7 +7,12 @@
 Title: 
 In short:
 Four words: - - - 
+Time: 
 
-Able to do at the end:
+Participant will be able to do at the end:
+- ...
+- ...
+
+Participant will be able to do if they pratice after the workshop:
 - ...
 - ...
