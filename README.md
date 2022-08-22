@@ -11,9 +11,9 @@ you can find topic that I would love to give as workshop.
 - [Hello Git](HelloGit/Index.md) , 2-5 days: Learn the basic how to never lose your work with Git.
   - [Hello Markdown](HelloGit/Markdown/Index.md) , 0.5-1 day: Learn how to use markdown to write "intemporal" document.
   - Additionnal Module:
-    - [Train on how to use Branch](), 0.5-1 day: Re-Learn what is a branch and train to use it in group workshop.
-    - [Train on how to use SSH]() , 0.5-1 day: Learn how to use an SSH connection with GitHub and GitLab.
-    - [Train on Move back and forward in time]() , 1-2 day: Use git is easy but break it when you move in time is easy too. Come train on the topic.
+    - [Train on how to use Branch](HelloGit/Branch/Index.md), 0.5-1 day: Re-Learn what is a branch and train to use it in group workshop.
+    - [Train on how to use SSH](HelloGit/SSH/Index.md) , 0.5-1 day: Learn how to use an SSH connection with GitHub and GitLab.
+    - [Train on Move back and forward in time](HelloGit/Revert/Index.md) , 1-2 day: Use git is easy but break it when you move in time is easy too. Come train on the topic.
   - [Hello Git for students (12-17 year old +)](HelloGit/ForSchool/Index.md), 1-3 day: Learn how to save your note, cheatsheet summary at a save place.
   - [Hello Git for students (16-25 year old +)](HelloGit/ForCollege/Index.md), 1-3 day: Learn how to work and sync in group with confidence.
 - [Hello C#](HelloCSharp/Index.md) , 4-5 days: Learn the basic of C#
@@ -27,11 +27,10 @@ you can find topic that I would love to give as workshop.
   - [Create toolboxes for Unity](HelloUnity/Toolboxes/Index.md) , 2-5 days: Recap of Git followed by how to create toolbox(package) in Unity.
 - [Hello C# in Unity](HelloUnity/Index.md) , 4-5 days: Learn the basic of scripting in Unity (Beginner only)
 - [Hello C# in Unity: Quaternion drill](HelloUnity/Quaternion/Index.md) , 3 days: Learn all tips and tricks on how to rotate objects in Unity (very important)
-- [Hello C# Design Pattern](HelloDesignPattern/Index.md) , 5-25 days: Pratice the creation of well known design pattern in C# console game or C# Unity game.
-
-
+- [Hello C# Design Pattern](HelloDesignPattern/Index.md) , 5-25 days: Pratice the creation of well known design pattern in C# Terminal game or C# Unity game.
 
 ### "Hardware"
+
 - [Hello 3D Printing](Hello3DPrint/Index.md) , 1-5 days: Learn the basic of how to use 3D printer 
 - [Hello Fusion 360 for Printing](HelloFusion3603D/Index.md) , 3-5 days: Learn the basic of Fusion 360 in aim to print object (Beginner).
 - [Hello Fusion 360 for CNC wood cutting](HelloFusion360CNC/Index.md) , 3-5 days: Learn the basic of Fusion 360 in aim to cut through wood (Beginner).
