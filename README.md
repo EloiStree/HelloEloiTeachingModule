@@ -79,8 +79,8 @@ you can find topic that I would love to give as workshop.
 ## OMI 
 
 ### Beginner
-- [Piano TV for Kids](OMI/HelloPianoTV/index.md), 1-5 days: In aim to become vidoe game tester, learn how to use/explote bug in games. Then to report them correctly to be fixed.
-- [Hello First Keyboard for Kids](OMI/HelloFirstKeyboard/index.md),1-3 days: Learn the basic of Arduino and create your a controller for your game(s).
+- [Piano TV for Kids](OMI/HelloPianoTV/index.md), 1-5 days: In aim to become video game tester, learn how to use/explote bug(s) in games. Then to report them correctly to be fixed by the team.
+- [Hello First Keyboard for Kids](OMI/HelloFirstKeyboard/index.md),1-3 days: Learn the basic of Arduino and create your a controller for game(s).
 -  
 ### Advance
 #### Video Game botting
@@ -88,10 +88,11 @@ you can find topic that I would love to give as workshop.
 - [Hello Multiboxing](OMI/HelloBot/Index.md) , 1-5 days: Learn in C# and/or Unity to create the logic of several bots in video games (Network & Multiboxing).
 - [Learn C# by create bot in World of Warcraft ](OMI/HelloWowBotting/Index.md), 1-5 days: Learn C# by learning how to create a bot in World of Warcraft.
 
+--------------------------------------------------------------
 
 ## Exploring Module
 
-Exploring modules are a week of exploration on a topic where it is hard to find expert on.
+Exploring modules is a week of exploration on a topic where it is hard to find expert on.
 I prepare the module by exploring the topic for 2-3 weeks before the workshop.
 Then explore, help and guide with the participants while exploring with them.
 The aim is always to do a GitHub review at the end with what was learn.
@@ -120,8 +121,26 @@ List of cool topic:
 
 
 
-# Own Hardware
 
+--------------------------------------------
+
+# Unity Teaching
+
+I teached Unity for 1-6 months in the past. 
+There are hundred of module of 2-5 days to learn.
+But they have meaning just if you plan to study for at least 2 months Unity to work in the field.
+So I will do the list just if required by someone.
+
+
+Previous : 
+- https://github.com/EloiStree/HelloUnity/wiki
+- https://github.com/EloiStree/HelloUnityForArtists/wiki
+- https://github.com/EloiStree/HelloVirtualReality/wiki
+
+
+-----------------------------------------------
+
+# Own Hardware I could do workshop on:
 - Kinect 360 & Kinect One
 - Zed Mini
 - Oculus 1, Quest 1-2
@@ -129,10 +148,4 @@ List of cool topic:
 - Arduino and boxes of stuffs
 - 3D Printer Ender
 - CNC 3018-Pro 
-- 
-
-
-
-
-
 
