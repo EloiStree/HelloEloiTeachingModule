@@ -26,6 +26,8 @@ you can find topic that I would love to give as workshop.
   - [Create toolboxes for Unity](HelloUnity/Toolboxes/Index.md) , 2-5 days: Recap of Git followed by how to create toolbox(package) in Unity.
 - [Hello C# in Unity](HelloUnity/Index.md) , 4-5 days: Learn the basic of scripting in Unity (Beginner only)
 - [Hello C# in Unity: Quaternion drill](HelloUnity/Quaternion/Index.md) , 3 days: Learn all tips and tricks on how to rotate objects in Unity (very important)
+- [Hello C# Design Pattern](HelloDesignPattern/Index.md) , 5-25 days: Pratice the creation of well known design pattern in C# console game or C# Unity game.
+
 
 
 ### "Hardware"
@@ -65,11 +67,14 @@ you can find topic that I would love to give as workshop.
 - [Hello UDP with Unity](HelloUnity/UDP/Index.md) , 3-5 days: Learn how to create a local UDP connection between applications with Unity.
 - [Hello Vuforia](HelloUnity/Vuforia/Index.md) , 3-5 days: Learn how to create augmented reality application with image(s) tracked.
 - [Hello Spacial Anchor](HelloUnity/SpacialAnchor/Index.md) , 3-5 days: Learn how to create augmented reality application from the environment.
+- [Hello package manager: Magic Door 24](HelloUnity/SpacialAnchor/Index.md) , 5 days: Learn to collaborate on a Unity project with 12-24+ people in it with the Unity package manager through game call Magic Door.
 
 ## Specific Topic Module
 - [Hello Ethereum for Beginner](Ethereum/HelloTheory/Index.md) , 3-5 days: Learn the basic of Ethereum story and history. And learn to use it.
 - [Hello Ethereum for Unity](Ethereum/HelloTheory/Index.md) , 3-5 days: Learn code your first transaction on Etherum with: [Etherscan](https://etherscan.io/), [Infuria](https://infura.io/)
-- [Hello Hackathon](HelloJam/FirstHackathon/Index.md) , 1-2 days: Learn/prepare yourself to a first hackathon (Tips, Timing, Concept, How to pitch, Value Canvas and BMC)
+- [Hello Hackathon](HelloJam/FirstHackathon/Index.md) , 1-2 days: Learn/prepare yourself to a first hackathon (Tips, Timing, Concept, How to pitch, Value Canvas and 
+  - [What and How to Pitch?](HelloJam/PitchCoach/Index.md) , 1 days: Learn to prepare your concept to be able to pitch it.  
+  - [Value Canvas and BMC](HelloJam/BMC/Index.md) , 1 days: Learn your project weekness by stressing it on a BMC. 
 
 ## OMI 
 
@@ -81,7 +86,7 @@ you can find topic that I would love to give as workshop.
 #### Video Game botting
 - [Hello Bot!](OMI/HelloBot/Index.md) , 1-5 days: Learn in C# and/or Unity to create the logic of a bot in video games.
 - [Hello Multiboxing](OMI/HelloBot/Index.md) , 1-5 days: Learn in C# and/or Unity to create the logic of several bots in video games (Network & Multiboxing).
-   
+- [Learn C# by create bot in World of Warcraft ](OMI/HelloWowBotting/Index.md), 1-5 days: Learn C# by learning how to create a bot in World of Warcraft.
 
 
 ## Exploring Module
