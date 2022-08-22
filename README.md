@@ -50,8 +50,6 @@ you can find topic that I would love to give as workshop.
 - [Hello Arduino HC05-06 and Classic Bluetooth](HelloArduinoHC06/Index.md) , 3-5 days: Learn to create Bluetooth classic communication between your Arduino and your phone/computer.
 - [Hello Kinect](HelloKinect/Index.md) , 1-2-5 days: Learn how to use a kinect (old and/or new) in Unity. (Can be linked to compute shader)
 - [Hello Android with Unity](HelloAndroid/Index.md) , 3-5 days: Learn how to create and publish and Android application with Unity on Goole Store. (For Beginner)
-
-
 - Learn to fetch the best of your computer
   - [Hello Unity Compute Shader](HelloUnity/ComputeShader/Index.md) , 1-3 days: Learn to use the power of your Graphic card by using Unity Computer Shader and C#
   - [Hello Unity Job System](HelloUnity/ComputeShader/Index.md) , 1-3 days: Learn to use the power of all your CPU thread by using Unity C# Job System 
@@ -75,12 +73,12 @@ you can find topic that I would love to give as workshop.
   - [What and How to Pitch?](HelloJam/PitchCoach/Index.md) , 1 days: Learn to prepare your concept to be able to pitch it.  
   - [Value Canvas and BMC](HelloJam/BMC/Index.md) , 1 days: Learn your project weekness by stressing it on a BMC. 
 - [Hello GCode for CNC and Printer](HelloGCode/Index.md) , 3-5 days: Learn to create GCode for CNC and Printer with C# through USB Connection.
-- 
+
 ## OMI 
 
 ### Beginner
 - [Piano TV for Kids](OMI/HelloPianoTV/index.md), 1-5 days: In aim to become video game tester, learn how to use/explote bug(s) in games. Then to report them correctly to be fixed by the team.
-- [Hello First Keyboard for Kids](OMI/HelloFirstKeyboard/index.md),1-3 days: Learn the basic of Arduino and create your a controller for game(s).
+- [Hello First Keyboard for Kids](OMI/HelloFirstKeyboard/index.md),1-3 days: Learn the basic of Arduino and create your own controller for game(s).
 -  
 ### Advance
 #### Video Game botting
