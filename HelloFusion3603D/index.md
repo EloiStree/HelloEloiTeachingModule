@@ -10,6 +10,7 @@ This module is going to teach you all the basic of a free for hobbies tool that 
 
 
 At the end of this workshop you will be:
+- able to know vocabulatry of Fusion 360 and 3D printing in a conversation
 - able to measure the reality and create 3D plastic tool from PLA low cost 3D printer.
 - able to go in FabLab and print your model with the help of the manager.
 - able to design 3D models and 2D sketches that can be shared
