@@ -12,7 +12,8 @@ In the idea of live by teaching small module where the participant and me enjoy 
     - [Train on how to use Branch](), 0.5-1 day: Re-Learn what is a branch and train to use it in group workshop.
     - [Train on how to use SSH]() , 0.5-1 day: Learn how to use an SSH connection with GitHub and GitLab.
     - [Train on Move back and forward in time]() , 1-2 day: Use git is easy but break it when you move in time is easy too. Come train on the topic.
-    - 
+  - [Hello Git for students (12-17 year old +)](HelloGit/ForSchool/Index.md), 1-3 day: Learn how to save your note, cheatsheet summary at a save place.
+  - [Hello Git for students (16-25 year old +)](HelloGit/ForCollege/Index.md), 1-3 day: Learn how to work and sync in group with confidence.
 - [Hello C#](HelloCSharp/Index.md) , 4-5 days: Learn the basic of C#
   - [Create Terminal/Console Game](HelloCSharp/ConsoleGame/Index.md) , 4-5 days: Learn the basic of C# by doing a game in the terminal
   - [Hack your browser with Selenium](HelloCSharp/SeleniumOgame/Index.md)  , 4-5 days: Learn the basic of C# by doing Selenium script through your browser
