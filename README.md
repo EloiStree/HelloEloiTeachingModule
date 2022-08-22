@@ -41,10 +41,10 @@ _https://eloistree.page.link/discord_
 
 ### "Hardware"
 
-- [Hello 3D Printing](Hello3DPrint/index.md)🚷 , 1-5 days: Learn the basic of how to use 3D printer 
-- [Hello Fusion 360 for Printing](HelloFusion3603D/index.md)🚷 , 3-5 days: Learn the basic of Fusion 360 in aim to print object (Beginner).
-- [Hello Fusion 360 for CNC wood cutting](HelloFusion360CNC/index.md)🚷 , 3-5 days: Learn the basic of Fusion 360 in aim to cut through wood (Beginner).
-- [Hello Arduino](HelloArduino/index.md)🚷 , 3-5 days: Learn how to use Arduino by creating your own keyboard.
+- [Hello 3D Printing](Hello3DPrint/index.md)🚧 , 1-5 days: Learn the basic of how to use 3D printer 
+- [Hello Fusion 360 for Printing](HelloFusion3603D/index.md)🚧 , 3-5 days: Learn the basic of Fusion 360 in aim to print object (Beginner).
+- [Hello Fusion 360 for CNC wood cutting](HelloFusion360CNC/index.md)🚧 , 3-5 days: Learn the basic of Fusion 360 in aim to cut through wood (Beginner).
+- [Hello Arduino](HelloArduino/index.md)🚧 , 3-5 days: Learn how to use Arduino by creating your own keyboard.
 
 ### VR AR
 
