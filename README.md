@@ -62,7 +62,7 @@ _https://eloistree.page.link/discord_
 - [Hello Android with Unity](HelloAndroid/index.md)🚷 , 3-5 days: Learn how to create and publish and Android application with Unity on Goole Store. (For Beginner)
 - Learn to fetch the best of your computer
   - [Hello Unity Compute Shader](HelloUnity/ComputeShader/index.md)🚷 , 1-3 days: Learn to use the power of your Graphic card by using Unity Computer Shader and C#
-  - [Hello Unity Job System](HelloUnity/ComputeShader/index.md)🚷 , 1-3 days: Learn to use the power of all your CPU thread by using Unity C# Job System 
+  - [Hello Unity Job System](HelloUnity/JobSystem/index.md)🚷 , 1-3 days: Learn to use the power of all your CPU thread by using Unity C# Job System 
 
 
 ## Unity Advance Module 
