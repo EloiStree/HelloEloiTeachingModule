@@ -28,7 +28,13 @@ In the idea of live by teaching small module where the participant and me enjoy 
 - [Hello 3D Printing](Hello3DPrint/Index.md) , 1-5 days: Learn the basic of how to use 3D printer 
 - [Hello Fusion 360 for Printing](HelloFusion3603D/Index.md) , 3-5 days: Learn the basic of Fusion 360 in aim to print object (Beginner).
 - [Hello Fusion 360 for CNC wood cutting](HelloFusion360CNC/Index.md) , 3-5 days: Learn the basic of Fusion 360 in aim to cut through wood (Beginner).
+- [Hello GCode for CNC and Printer](HelloGCode/Index.md) , 3-5 days: Learn to create GCode for CNC and Printer with C# through USB Connection.
 - [Hello Arduino](HelloArduino/Index.md) , 3-5 days: Learn how to use Arduino by creating your own keyboard.
+
+
+## Advance
+
+- [Hello Arduino BLE](HelloArduinoBLE/Index.md) , 3-5 days: Learn to create BLE keyboard and communication between your Arduino and your computer.
 
 
 
