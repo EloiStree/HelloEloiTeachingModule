@@ -77,8 +77,8 @@ _https://eloistree.page.link/discord_
 - [Hello package manager: Magic Door 24](HelloUnity/MagicDoor/index.md)🚷 , 5 days: Learn to collaborate on a Unity project with 12-24+ people in it with the Unity package manager through game call Magic Door.
 
 ## Specific Topic Module
-- [Hello Ethereum for Beginner](Ethereum/HelloTheory/index.md)🚷 , 3-5 days: Learn the basic of Ethereum story and history. And learn to use it.
-- [Hello Ethereum for Unity](Ethereum/Unity/index.md)🚷 , 3-5 days: Learn code your first transaction on Etherum with: [Etherscan](https://etherscan.io/), [Infuria](https://infura.io/)
+- [Hello Ethereum for Beginner](HelloEthereum/HelloTheory/index.md)🚷 , 3-5 days: Learn the basic of Ethereum story and history. And learn to use it.
+- [Hello Ethereum for Unity](HelloEthereum/Unity/index.md)🚷 , 3-5 days: Learn code your first transaction on Etherum with: [Etherscan](https://etherscan.io/), [Infuria](https://infura.io/)
 - [Hello Hackathon](HelloJam/FirstHackathon/index.md)🚷 , 1-2 days: Learn/prepare yourself to a first hackathon: Tips, Timing, Concept, How to pitch, Value Canvas...
   - [What and How to Pitch?](HelloJam/PitchCoach/index.md)🚷 , 1 days: Learn to prepare your concept to be able to pitch it.  
   - [Value Canvas and BMC](HelloJam/BMC/index.md)🚷 , 1 days: Learn your project weekness by stressing it on a BMC. 
