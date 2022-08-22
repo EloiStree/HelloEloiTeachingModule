@@ -32,7 +32,7 @@ In the idea of live by teaching small module where the participant and me enjoy 
 - [Hello Arduino](HelloArduino/Index.md) , 3-5 days: Learn how to use Arduino by creating your own keyboard.
 
 
-## VR AR
+### VR AR
 
 - [Hello VR Theory and History](HelloVR/Theory/Index.md) , 1-2 days: Learn what is VR, test some headset and learn about the history behind the devices. 
 - [Hello VR Game Design](HelloVR/GameDesign/Index.md) , 1-5 days: Learn by booking through what exists how you can create VR game/app and what you need to know about. 
@@ -48,4 +48,26 @@ In the idea of live by teaching small module where the participant and me enjoy 
 
 ## Unity Advance Module 
 
+d
+
 ## OMI 
+
+d
+
+
+## Exploring Module
+
+Exploring modules are a week of exploration on a topic where it is hard to find expert on.
+I prepare the module by exploring the topic for 2-3 weeks before the workshop.
+Then explore, help and guide with the participants while exploring with them.
+The aim is always to do a GitHub review at the end with what was learn.
+
+Example of topic I have in my to-do-list:
+- Arduino BLE: Learn how to do communication between Arduino and your device (PC/Phone) and your Arduino.
+- Etherum: Learn how to do Ehterum transationction from C# to use in Application.
+- Lynx VR: Can we do augmented reality application with the Lynx? If yes what are the condition.
+- Oculus Calibration: Is Oculus precise enough to be able to do measure applications for the market.
+- PayPal API: Is it easy to use PayPal in application? If yes, is it easy enough for beginner in C#?
+- ...
+
+
