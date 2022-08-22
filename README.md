@@ -113,12 +113,12 @@ I have 200-400 small projects on my harddrive on all the topic: Wifi, Rest, API,
 The idea would be to spend 1-2 days coarching students that are self-teaching  C#/Unity in the same room.
 And prepare an exercice for 1 day where, I teach and make praticing the participant  on what I learn in the past based on the refactored code.
 
-List of cool topic:
+Example:
 - Scan a building with Zed-Mini or Hololens (Could use AR Phone)
 - Make application display context based on Wifi detected around
-
-
-
+- Use a coins counter wiht Arduino.
+- Do wall projection game in Unity.
+- ... 
 
 --------------------------------------------
 
