@@ -93,7 +93,7 @@ _https://eloistree.page.link/discord_
 ### Advance
 #### Video Game botting
 - [Hello Bot!](OMI/HelloBot/index.md)🚷 , 3-5 days: Learn in C# and/or Unity to create the logic of a bot in video games.
-- [Hello Multiboxing](OMI/HelloBot/index.md)🚷 , 3-5 days: Learn in C# and/or Unity to create the logic of several bots in video games (Network & Multiboxing).
+- [Hello Multiboxing](OMI/HelloBots/index.md)🚷 , 3-5 days: Learn in C# and/or Unity to create the logic of several bots in video games (Network & Multiboxing).
 - [Learn C# by create bot in World of Warcraft ](OMI/HelloWowBotting/index.md)🚷, 3-10 days: Learn C# by learning how to create a bot in World of Warcraft.
 
 --------------------------------------------------------------
