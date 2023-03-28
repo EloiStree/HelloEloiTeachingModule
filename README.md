@@ -74,6 +74,7 @@ _Feel free to propose idea if you think it is in my range of skills and need a <
 - [Hello Unity Input System with OpenXR](HelloVR/OpenXR/index.md)🚷 , 3-5 days: Learn the basic of how to create a game with OpenXR that work on all devices.
 - [Hello MQTT with Unity](HelloUnity/MQTT/index.md)🚷 , 3-5 days: Learn how to create a communication between applications with Unity.
 - [Hello UDP with Unity](HelloUnity/UDP/index.md)🚷 , 3-5 days: Learn how to create a local UDP connection between applications with Unity.
+- [Hello TNET3 with Unity](HelloUnity/TNET3/index.md)🚷 , 3-5 days: Learn how to create mutiplayer game with TNET Module with Unity
 - [Hello Vuforia](HelloUnity/Vuforia/index.md)🚷 , 3-5 days: Learn how to create augmented reality application with image(s) tracked.
 - [Hello Spacial Anchor](HelloUnity/SpacialAnchor/index.md)🚷 , 3-5 days: Learn how to create augmented reality application from the environment.
 - [Hello package manager: Magic Door 24](HelloUnity/MagicDoor/index.md)🚷 , 5 days: Learn to collaborate on a Unity project with 12-24+ people in it with the Unity package manager through game call Magic Door.
