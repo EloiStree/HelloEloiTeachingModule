@@ -20,6 +20,8 @@ _Feel free to propose idea if you think it is in my range of skills and need a <
 
 ### Software
 
+![image](https://user-images.githubusercontent.com/20149493/228246420-89fedec9-899a-4c1b-8eb8-c9a100006be8.png)
+Git  
 - [Hello Git](HelloGit/index.md)🚧 , 2-5 days: Learn the basic how to never lose your work with Git.
   - [Hello Markdown](HelloGit/Markdown/index.md)🚧 , 0.5-1 day: Learn how to use markdown to write "intemporal" document.
   - Additionnal Module:
@@ -28,6 +30,8 @@ _Feel free to propose idea if you think it is in my range of skills and need a <
     - [Train on Move back and forward in time](HelloGit/Revert/index.md)🚷 , 1-2 day: Use git is easy but break it when you move in time is easy too. Come train on the topic.
   - [Hello Git for students (12-17 year old +)](HelloGit/ForSchool/index.md)🚷, 1-3 day: Learn how to save your note, cheatsheet summary at a save place.
   - [Hello Git for students (16-25 year old +)](HelloGit/ForCollege/index.md)🚷, 1-3 day: Learn how to work and sync in group with confidence.
+
+Unity and C#  
 - [Hello C#](HelloCSharp/index.md) , 4-5 days: Learn the basic of C#
   - [Create Terminal/Console Game](HelloCSharp/ConsoleGame/index.md)🚷 , 4-5 days: Learn the basic of C# by doing a game in the terminal
   - [Hack your browser with Selenium](HelloCSharp/SeleniumOgame/index.md)🚷  , 4-5 days: Learn the basic of C# by doing Selenium script through your browser
@@ -42,6 +46,7 @@ _Feel free to propose idea if you think it is in my range of skills and need a <
 - [Hello C# Design Pattern](HelloDesignPattern/index.md)🚷 , 5-25 days: Pratice the creation of well known design pattern in C# Terminal game or C# Unity game.
 
 ### "Hardware"
+![image](https://user-images.githubusercontent.com/20149493/228246261-43c37b03-1648-442d-b4c5-21b666ae96cb.png)
 
 - [Hello 3D Printing](Hello3DPrint/index.md)🚧 , 1-5 days: Learn the basic of how to use 3D printer 
 - [Hello Fusion 360 for Printing](HelloFusion3603D/index.md)🚧 , 3-5 days: Learn the basic of Fusion 360 in aim to print object (Beginner).
@@ -60,6 +65,9 @@ _Feel free to propose idea if you think it is in my range of skills and need a <
 
 - [Hello Arduino BLE](HelloArduinoBLE/index.md)🚷 , 3-5 days: Learn to create BLE keyboard and communication between your Arduino and your computer.
 - [Hello Arduino HC05-06 and Classic Bluetooth](HelloArduinoHC06/index.md)🚷 , 3-5 days: Learn to create Bluetooth classic communication between your Arduino and your phone/computer.
+
+![image](https://user-images.githubusercontent.com/20149493/228246689-67c39371-44a1-4ee4-bb94-104778223840.png)
+Kinect vs GPU/CPU
 - [Hello Kinect](HelloKinect/index.md)🚷 , 1-2-5 days: Learn how to use a kinect (old and/or new) in Unity. (Can be linked to compute shader)
 - [Hello Android with Unity](HelloAndroid/index.md)🚷 , 3-5 days: Learn how to create and publish and Android application with Unity on Goole Store. (For Beginner)
 - Learn to fetch the best of your computer
