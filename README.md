@@ -1,6 +1,6 @@
-[![image](https://user-images.githubusercontent.com/20149493/228249786-35e53891-6446-43de-bfef-bb836541349f.png)](http://tipeee.com/eloistree)
-[![image](https://user-images.githubusercontent.com/20149493/228250139-be38d1cc-b627-4491-b0b2-51b38a55dd27.png)](https://github.com/EloiStree)
-[![image](https://user-images.githubusercontent.com/20149493/228250393-179a3893-2eb5-4c33-bb54-834b9883470c.png)](https://www.linkedin.com/in/eloistree/)
+[Tipeee](http://tipeee.com/eloistree) | [GitHub](https://github.com/EloiStree) | [Linked In](https://www.linkedin.com/in/eloistree/)
+--- | --- |--- 
+[![image](https://user-images.githubusercontent.com/20149493/228249786-35e53891-6446-43de-bfef-bb836541349f.png)](http://tipeee.com/eloistree) | [![image](https://user-images.githubusercontent.com/20149493/228250139-be38d1cc-b627-4491-b0b2-51b38a55dd27.png)](https://github.com/EloiStree) | [![image](https://user-images.githubusercontent.com/20149493/228250393-179a3893-2eb5-4c33-bb54-834b9883470c.png)](https://www.linkedin.com/in/eloistree/)
 
 
 # Teaching Module For Young
@@ -160,6 +160,7 @@ Previous :
 - https://github.com/EloiStree/HelloUnity/wiki
 - https://github.com/EloiStree/HelloUnityForArtists/wiki
 - https://github.com/EloiStree/HelloVirtualReality/wiki
+- https://github.com/EloiStree/HelloHololens/wiki
 
 
 -----------------------------------------------
