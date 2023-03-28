@@ -197,12 +197,16 @@ A | B
  ![image](https://user-images.githubusercontent.com/20149493/228240901-90c02c28-73dc-4d6d-95a0-3c8e02c8bf3d.png) | ![image](https://user-images.githubusercontent.com/20149493/228240665-f8b2d3d4-0eef-4078-9716-627e58da35dc.png)  
 
 
-##### Drone Soccer XR EDU (TNET3 / UDP)
-
-No code yet. On the planning.
 
 
 #### No code Jam, Ibrahim Pitch
 [![image](https://user-images.githubusercontent.com/20149493/228236944-b585ce5a-b3ee-4680-b9ab-ee794dc8f198.png)](https://www.youtube.com/watch?v=16VoZuS4iHA&list=PLjoWUDFutpQlFwyefbOWuOYNxzXn23XM2&ab_channel=ÉloiStrée%2Cꬲ🧰%3ARawvideo)
 
 https://www.youtube.com/watch?v=16VoZuS4iHA&list=PLjoWUDFutpQlFwyefbOWuOYNxzXn23XM2&ab_channel=ÉloiStrée%2Cꬲ🧰%3ARawvideo
+
+
+
+##### Drone Soccer XR EDU (TNET3 / UDP)
+
+No code yet. On the scheduling.  
+(A merge of Root of Knowledge and Drone XR Solo)  
