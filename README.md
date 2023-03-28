@@ -211,6 +211,18 @@ https://youtu.be/NCeAVAVr2v4
 https://www.youtube.com/watch?v=16VoZuS4iHA&list=PLjoWUDFutpQlFwyefbOWuOYNxzXn23XM2&ab_channel=ÉloiStrée%2Cꬲ🧰%3ARawvideo
 
 
+#### Kinect Quaternion and Memory File Compression
+![image](https://user-images.githubusercontent.com/20149493/228255671-24b40dcb-81b4-4362-bb2c-5fa4ab1f6ae8.png)
+
+This project is a very complexe topic that worth the refactor.
+It use the Kinect
+It lot's of quaternion rotation to fetch the data we need
+It use a computer shader to translate could point to black and white texture
+it use job system to compute through large data
+It use UDP and/or Memory file to transmit data from an app to an other
+It use byte compression to transmit data from an app to an other at 60+ FPS
+
+
 
 #### Drone XR version
 ![image](https://user-images.githubusercontent.com/20149493/228247091-055a4775-c88d-4a75-8d15-5f845ab5adb7.png)
