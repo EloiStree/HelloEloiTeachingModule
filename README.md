@@ -1,3 +1,8 @@
+[![image](https://user-images.githubusercontent.com/20149493/228249786-35e53891-6446-43de-bfef-bb836541349f.png)](http://tipeee.com/eloistree)
+[![image](https://user-images.githubusercontent.com/20149493/228250139-be38d1cc-b627-4491-b0b2-51b38a55dd27.png)](https://github.com/EloiStree)
+[![image](https://user-images.githubusercontent.com/20149493/228250393-179a3893-2eb5-4c33-bb54-834b9883470c.png)](https://www.linkedin.com/in/eloistree/)
+
+
 # Teaching Module For Young
 
 In the idea of living by teaching small modules where the participants and me enjoy the session,  
@@ -220,3 +225,24 @@ Prototype that allows to learn code from beginner to advance by playing with fak
 
 No code yet. On the scheduling.  
 (A merge of Root of Knowledge and Drone XR Solo)  
+
+
+---------------------
+## Lynx R1
+
+I am waiting only one thing at the moment: to receive the Lynx R1 to create XR application in a quality passthrough.  
+In the waiting I am available to work on workshop to prepare the student to be ready for the headset.  
+As soon as I have it, I am available to teach on how to use it in Unity.   
+
+![image](https://user-images.githubusercontent.com/20149493/228247775-b9a740d0-a7c1-4ed6-b0b7-cf27c51deaca.png)
+
+
+----------------------
+# OMI
+
+Learn how to use my tool OMI (or the code behind my tool publish on GitHub) to create some tests batteries for your game that you can trigger easily or by code.
+![image](https://user-images.githubusercontent.com/20149493/228248941-8817e22e-01da-4586-b152-5c6425e4f4bc.png)
+
+
+Learn how to use my tool OMI to create input controller from "any" input.
+![image](https://user-images.githubusercontent.com/20149493/228249403-08394b84-34fb-4974-aa67-c2eeac8c62f3.png)
