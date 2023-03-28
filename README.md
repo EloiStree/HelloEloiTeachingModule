@@ -159,3 +159,50 @@ Previous :
 - 3D Printer Ender
 - CNC 3018-Pro 
 
+
+
+
+--------------
+
+
+## How Did I Do That ? H-DID-T
+
+The concept of "How did I do that?" is to create a workshop on demande on an old project I did during R&D or hackathon/jam.
+When ask, or by will, I will take a project I did:
+- Zip it to keep it as it was
+- Explore it to relearn how I did what I did
+- Refresh it to a new version of Unity if possible
+- Try to extract toolboxes of it
+- Propose a clean version to explore with the student
+
+They are hundred of project that could fit this format.  
+Just ping me if you would like me to work on any of my project for a workshop with students or employees.
+
+### Best project to review in this format
+
+#### Project Magic Door
+[![image](https://user-images.githubusercontent.com/20149493/228236372-485a5079-48ba-4c07-8174-5086c2321a61.png)](https://youtu.be/KD47s4uWAIw)
+https://youtu.be/KD47s4uWAIw
+
+
+#### Chill Chess Multiplayer with TNET3
+[![image](https://user-images.githubusercontent.com/20149493/228235297-87f39b45-e1d3-404d-b0df-26574329a896.png)](https://youtu.be/NCeAVAVr2v4)
+https://youtu.be/NCeAVAVr2v4
+
+#### Drone XR version
+
+##### Root of knowledge (UDP)
+A | B  
+--- | ---  
+ ![image](https://user-images.githubusercontent.com/20149493/228240901-90c02c28-73dc-4d6d-95a0-3c8e02c8bf3d.png) | ![image](https://user-images.githubusercontent.com/20149493/228240665-f8b2d3d4-0eef-4078-9716-627e58da35dc.png)  
+
+
+##### Drone Soccer XR EDU (TNET3 / UDP)
+
+No code yet. On the planning.
+
+
+#### No code Jam, Ibrahim Pitch
+[![image](https://user-images.githubusercontent.com/20149493/228236944-b585ce5a-b3ee-4680-b9ab-ee794dc8f198.png)](https://www.youtube.com/watch?v=16VoZuS4iHA&list=PLjoWUDFutpQlFwyefbOWuOYNxzXn23XM2&ab_channel=ÉloiStrée%2Cꬲ🧰%3ARawvideo)
+
+https://www.youtube.com/watch?v=16VoZuS4iHA&list=PLjoWUDFutpQlFwyefbOWuOYNxzXn23XM2&ab_channel=ÉloiStrée%2Cꬲ🧰%3ARawvideo
