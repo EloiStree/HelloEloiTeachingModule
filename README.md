@@ -234,7 +234,9 @@ Prototype that allows to learn code from beginner to advance by playing with fak
 
 
 ##### In my list
-Those application are in my list if I would spend time teaching what I did in the past and need to be refactored.
+
+Those applications are in my list if I would spend time teaching what I did in the past and need to be refactored.  
+
 *App*:
 2015_04_24_JediSimulator Music Jedi game -
 2015_05_21_Limonade - 
