@@ -16,7 +16,7 @@ _This page is under construction. The following label helps you know what topic 
 🚧 = The topic is under construction.  
 🚷 = Page not created yet.  
 
-_Ping me at anytime if you need one of the topic:_  
+_Ping me at anytime if you need me:_  
 _[https://eloistree.github.io/r/discord](https://eloistree.github.io/r/discord)_  
   
 _Feel free to propose idea if you think it is in my range of skills and need a <5 days module._  
