@@ -14,7 +14,7 @@ _This page is under construction. The following label helps you know what topic 
   
 ✅ = Topic ready for review.  
 🚧 = The topic is under construction.  
-🚷 = Page not created yet.  
+🚷 = Nothing done but willing to teach.
 
 _Ping me at anytime if you need me:_  
 _[https://eloistree.github.io/r/discord](https://eloistree.github.io/r/discord)_  
