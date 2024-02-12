@@ -1,4 +1,5 @@
-INDEX
+![image](https://github.com/EloiStree/HelloEloiTeachingModule/assets/20149493/93038c07-c0f9-40c1-8246-2a9c6e7c2ad4)
+
 
 ⚠️ This page is a resume of a workshop that took place in the context of a formation about Unity and virtual reality for the gaming industry in Belgium focus on the Oculus Quest. ⚠️
 --------------------------------
