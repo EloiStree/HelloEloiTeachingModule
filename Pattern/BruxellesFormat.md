@@ -72,3 +72,11 @@ Workshop design by Éloi Strée are always free and hosted on GitHub.
   - per week: the objective of learning skills of the week and the challenge at the end.
   - code provided to start the exercices.  
 
+# Challenge par default
+
+_The evaluation challenget can change depending of the students level, calendar of the workshop and the center environment._
+
+> Description
+
+
+
