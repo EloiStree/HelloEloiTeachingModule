@@ -8,3 +8,4 @@
 - Python for LM Studio (offline AI models API)
 - Python: UDP, TCP, Websocket Server-Client
 - Basic of RSA keys with Python
+- Use of Chat GPT API on Open AI from Python
