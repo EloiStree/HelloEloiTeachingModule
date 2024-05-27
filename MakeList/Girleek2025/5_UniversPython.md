@@ -7,3 +7,4 @@
 - Python for to help handicap people
 - Python for LM Studio (offline AI models API)
 - Python: UDP, TCP, Websocket Server-Client
+- Basic of RSA keys with Python
