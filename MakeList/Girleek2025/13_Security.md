@@ -1,14 +1,14 @@
 # Security
 
-- Module on what is RSA in C#, Python and Javascript to secure a message
-- How I hack a game:
-  - Lua injection
-  - DLL injection Unity3D
+- Module Exploring RSA in C#, Python, and JavaScript for Message Security
+- Game Hacking Techniques:
+  - Lua Injection
+  - DLL Injection in Unity3D
   - Color Picking
-  - Cheat Engine Memory hack
-  - Botting from public variable given (Wow API)
-- Keyboard hacking admin console by USB and BLE
-- Protégé les fichiers d'un jeu contre la modification en utilisant le hashing
+  - Cheat Engine Memory Hacks
+  - Botting using Publicly Available Variables (e.g., WoW API)
+- Admin Console Keyboard Hacking via USB and BLE
+- Protecting Game Files Against Modification Using Hashing
 
 
 
