@@ -63,8 +63,8 @@
 - Création d'objets de jeu et de comportements à l'aide de scripts
 - Optimisation des performances et débogage de votre jeu
 
-**Utiliser C# pour des tâches avancées : traitement audio, automatisation web, gestion de la mémoire et exécution de multiples actions en série**
-- Manipulation et traitement du son avec C#
+**Utiliser C# pour des tâches avancées : hack audio, automatisation web, gestion de la mémoire et exécution de multiples actions en série**
+- Hack de l'audio mixer du son Window avec C#
 - Automatisation de tâches web avec Selenium en C#
 - Gestion de la mémoire avec Cheat Engine en C#
 - Exécution de tâches en série pour des flux de travail efficaces
@@ -85,7 +85,7 @@
 
 # 02 Java
 
-- Préparez-vous à la certification 1Z0-851 : [Lien Amazon](https://www.amazon.com.be/-/en/Bert-Bates/dp/0072260882)
+- Préparez-vous à la certification type Java SE 1Z0-851 : [Lien Amazon](https://www.amazon.com.be/-/en/Bert-Bates/dp/0072260882)
 - Utilisez Java pour créer des modules complémentaires natifs dans Unity3D
 - Automatisez des tâches avec l'utilitaire [Robot](https://docs.oracle.com/javase/8/docs/api/java/awt/Robot.html) de Java
   - Utilisation de clients UDP et WebSocket pour l'automatisation
@@ -97,7 +97,7 @@
 
 ## Modules proposés
 
-- 1 semaine : Préparation à la certification 1Z0-851
+- 1 semaine : Préparation à la certification type Java SE 1Z0-851
 - 1 semaine : Utilisation de Java pour créer des modules complémentaires natifs dans Unity3D
 - 1 semaine : Automatisation des tâches avec l'utilitaire Robot de Java
 - 1 semaine : Utilisation de clients UDP et WebSocket pour l'automatisation
@@ -105,7 +105,7 @@
 
 ## Détails des modules
 
-**Préparation à la certification 1Z0-851**
+**Préparation à la certification type Java SE 1Z0-851**
 - Introduction à la certification 1Z0-851
 - Révision des principaux sujets et objectifs
 - Stratégies d'étude et ressources disponibles
