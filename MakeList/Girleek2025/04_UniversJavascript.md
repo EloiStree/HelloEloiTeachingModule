@@ -1,4 +1,4 @@
-# 4. Univers Javascript
+# 04 Univers Javascript
 
 - Mastering the Essentials of JavaScript
   - Variables, functions, threads, libraries
