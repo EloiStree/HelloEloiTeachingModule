@@ -174,3 +174,332 @@ _The evaluation challenge can change depending on the students' level, the works
 > Description: Develop a sophisticated multiplayer game using advanced Scratch features, incorporating custom blocks, complex variables, cloud data, and real-time interactions.
 
 -------------------------
+
+
+
+------------------------
+
+# Module de Base : Introduction à la Programmation avec Scratch
+
+## Module de Base
+
+### 1. Nom du Module
+Introduction à Scratch : Programmation sans Code pour les Développeurs Débutants
+
+### 2. Public
+Chercheurs d'emploi, travailleurs, débutants
+
+### 3. Prérequis
+Compétences informatiques de base.
+Capacité à lire des manuels en anglais.
+
+### 4. Objectifs
+- Comprendre les concepts de base de la programmation avec Scratch.
+- Développer des programmes et jeux simples avec Scratch.
+- Apprendre la pensée logique et les compétences en résolution de problèmes.
+- Gagner en confiance dans la création et la modification de code.
+- Se préparer à des cours de programmation plus avancés.
+
+# Programme 
+## Jour 1, Vendredi :
+- Introduction à Scratch : Interface et Fonctionnalités
+- Concepts de Base : Sprites, Costumes et Arrière-plans
+- Premier Projet : Création d'une Animation Simple
+- Séance de Questions-Réponses et de Feedback
+
+## Jour 2, Lundi :
+- Récapitulation et Révision du Jour 1
+- Comprendre les Blocs Scratch : Mouvement, Apparence et Son
+- Projet : Conception d'une Histoire Interactive de Base
+- Discussion de Groupe et Résolution de Problèmes
+
+## Jour 3, Mardi :
+- Exploration des Blocs de Contrôle : Boucles et Conditionnelles
+- Projet : Création d'un Jeu Simple avec Interaction Utilisateur
+- Techniques de Débogage et Gestion des Erreurs
+- Revue Par les Pairs et Collaboration
+
+## Jour 4, Mercredi :
+- Introduction aux Variables et Opérateurs
+- Projet : Création d'un Jeu avec Suivi des Scores
+- Fonctionnalités Avancées : Clonage et Diffusion de Messages
+- Pratique Assistée et Support
+
+## Jour 5, Jeudi :
+- Récapitulation et Concepts Avancés
+- Projet : Conception d'un Jeu Multi-niveaux
+- Préparation au Challenge Final
+- Mentorat Individuel et Questions-Réponses
+
+## Jour 6, Vendredi :
+- Challenge Final : Créer un Projet Complet avec Scratch
+- Présentation et Évaluation des Projets
+- Séance de Feedback et Prochaines Étapes
+- Distribution des Certificats et Remarques de Clôture
+
+# Méthodes
+
+Préparer avec une structure de haut niveau et une adaptation junior.
+Cet atelier doit commencer le vendredi pour être le plus efficace.
+Le but est d'évaluer le niveau des étudiants et leurs objectifs après l'atelier.
+En fonction de cela, l'atelier est ajusté pendant le week-end pour répondre aux besoins des participants.
+
+L'atelier est conçu en petits modules d'une demi-journée pour enseigner des compétences qui sont testées sous la forme d'un challenge individuel le vendredi.
+Les ateliers conçus par Éloi Strée sont toujours gratuits et hébergés sur GitHub.
+
+# Matériel
+
+- Répertoire GitHub avec :
+  - Par jour : deux petits exercices, objectifs, mots-clés, liens, description de ce que nous apprenons.
+  - Par semaine : l'objectif d'apprentissage des compétences de la semaine et le challenge de fin de semaine.
+  - Code fourni pour démarrer les exercices.
+
+# Challenge Par Défaut
+
+_Le challenge d'évaluation peut changer en fonction du niveau des étudiants, du calendrier de l'atelier et de l'environnement du centre._
+
+> Description : Créer un jeu ou une histoire interactive utilisant Scratch incluant des éléments appris tout au long de la semaine tels que le mouvement, les structures de contrôle, les variables et les messages.
+
+------------------------- 
+
+# Module Avancé : Programmation Avancée avec Scratch - Challenge de Jeu Multijoueur
+
+## Module Avancé
+
+### 1. Nom du Module
+Scratch Avancé : Développement de Jeux Multijoueurs
+
+### 2. Public
+Chercheurs d'emploi, travailleurs, débutants en programmation
+
+### 3. Prérequis
+Compétences informatiques de base.
+
+### 4. Objectifs
+- Maîtriser les concepts avancés de programmation avec Scratch.
+- Développer des jeux et applications multijoueurs complexes.
+- Implémenter des pratiques de codage efficaces.
+- Améliorer les compétences en résolution de problèmes et en pensée critique.
+- Collaborer sur des projets de développement de jeux.
+
+# Programme 
+## Jour 1, Vendredi :
+- Introduction aux Concepts Avancés de Scratch
+- Approfondissement : Fonctions et Blocs Personnalisés
+- Projet : Création de Blocs de Code Réutilisables
+- Séance de Questions-Réponses et de Feedback
+
+## Jour 2, Lundi :
+- Récapitulation et Révision du Jour 1
+- Gestion Avancée des Données : Listes et Variables Complexes
+- Projet : Construction d'une Application Basée sur les Données
+- Discussion de Groupe et Résolution de Problèmes
+
+## Jour 3, Mardi :
+- Exploration des Structures de Contrôle Avancées et Algorithmes
+- Projet : Conception d'un Jeu Basé sur l'IA
+- Techniques de Débogage et Optimisation des Performances
+- Revue Par les Pairs et Collaboration
+
+## Jour 4, Mercredi :
+- Introduction aux Mécanismes de Jeu Multijoueur
+- Comprendre les Variables Cloud et les WebSockets
+- Projet : Mise en Place d'un Environnement Multijoueur Simple
+- Fonctionnalités Avancées : Clonage et Diffusion de Messages
+- Pratique Assistée et Support
+
+## Jour 5, Jeudi :
+- Récapitulation et Stratégies de Jeux Multijoueurs
+- Projet : Développement d'un Jeu Multijoueur
+- Concepts de Chargement et Réinitialisation des Niveaux
+- Préparation au Challenge Final
+- Mentorat Individuel et Questions-Réponses
+
+## Jour 6, Vendredi :
+- Challenge Final : Créer un Jeu Multijoueur Complet
+- Présentation et Évaluation des Projets
+- Séance de Feedback et Prochaines Étapes
+- Distribution des Certificats et Remarques de Clôture
+
+# Méthodes
+
+Préparer avec une structure de haut niveau et une adaptation junior.
+Cet atelier doit commencer le vendredi pour être le plus efficace.
+Le but est d'évaluer le niveau des étudiants et leurs objectifs après le premier jour de l'atelier.
+En fonction de cela, l'atelier est ajusté pendant le week-end pour répondre aux besoins des participants.
+
+L'atelier est conçu en petits modules d'une demi-journée pour enseigner des compétences qui sont testées sous la forme d'un challenge individuel le vendredi.
+Les ateliers conçus par Éloi Strée sont toujours gratuits et hébergés sur GitHub.
+
+# Matériel
+
+- Répertoire GitHub avec :
+  - Par jour : deux petits exercices, objectifs, mots-clés, liens, description de ce que nous apprenons.
+  - Par semaine : l'objectif d'apprentissage
+
+```markdown
+# Module de Base : Introduction à la Programmation avec Scratch
+
+## Module de Base
+
+### 1. Nom du Module
+Introduction à Scratch : Programmation sans Code pour les Développeurs Débutants
+
+### 2. Public
+Chercheurs d'emploi, travailleurs, débutants
+
+### 3. Prérequis
+Compétences informatiques de base.
+Capacité à lire des manuels en anglais.
+
+### 4. Objectifs
+- Comprendre les concepts de base de la programmation avec Scratch.
+- Développer des programmes et jeux simples avec Scratch.
+- Apprendre la pensée logique et les compétences en résolution de problèmes.
+- Gagner en confiance dans la création et la modification de code.
+- Se préparer à des cours de programmation plus avancés.
+
+# Programme 
+## Jour 1, Vendredi :
+- Introduction à Scratch : Interface et Fonctionnalités
+- Concepts de Base : Sprites, Costumes et Arrière-plans
+- Premier Projet : Création d'une Animation Simple
+- Séance de Questions-Réponses et de Feedback
+
+## Jour 2, Lundi :
+- Récapitulation et Révision du Jour 1
+- Comprendre les Blocs Scratch : Mouvement, Apparence et Son
+- Projet : Conception d'une Histoire Interactive de Base
+- Discussion de Groupe et Résolution de Problèmes
+
+## Jour 3, Mardi :
+- Exploration des Blocs de Contrôle : Boucles et Conditionnelles
+- Projet : Création d'un Jeu Simple avec Interaction Utilisateur
+- Techniques de Débogage et Gestion des Erreurs
+- Revue Par les Pairs et Collaboration
+
+## Jour 4, Mercredi :
+- Introduction aux Variables et Opérateurs
+- Projet : Création d'un Jeu avec Suivi des Scores
+- Fonctionnalités Avancées : Clonage et Diffusion de Messages
+- Pratique Assistée et Support
+
+## Jour 5, Jeudi :
+- Récapitulation et Concepts Avancés
+- Projet : Conception d'un Jeu Multi-niveaux
+- Préparation au Challenge Final
+- Mentorat Individuel et Questions-Réponses
+
+## Jour 6, Vendredi :
+- Challenge Final : Créer un Projet Complet avec Scratch
+- Présentation et Évaluation des Projets
+- Séance de Feedback et Prochaines Étapes
+- Distribution des Certificats et Remarques de Clôture
+
+# Méthodes
+
+Préparer avec une structure de haut niveau et une adaptation junior.
+Cet atelier doit commencer le vendredi pour être le plus efficace.
+Le but est d'évaluer le niveau des étudiants et leurs objectifs après l'atelier.
+En fonction de cela, l'atelier est ajusté pendant le week-end pour répondre aux besoins des participants.
+
+L'atelier est conçu en petits modules d'une demi-journée pour enseigner des compétences qui sont testées sous la forme d'un challenge individuel le vendredi.
+Les ateliers conçus par Éloi Strée sont toujours gratuits et hébergés sur GitHub.
+
+# Matériel
+
+- Répertoire GitHub avec :
+  - Par jour : deux petits exercices, objectifs, mots-clés, liens, description de ce que nous apprenons.
+  - Par semaine : l'objectif d'apprentissage des compétences de la semaine et le challenge de fin de semaine.
+  - Code fourni pour démarrer les exercices.
+
+# Challenge Par Défaut
+
+_Le challenge d'évaluation peut changer en fonction du niveau des étudiants, du calendrier de l'atelier et de l'environnement du centre._
+
+> Description : Créer un jeu ou une histoire interactive utilisant Scratch incluant des éléments appris tout au long de la semaine tels que le mouvement, les structures de contrôle, les variables et les messages.
+
+------------------------- 
+
+# Module Avancé : Programmation Avancée avec Scratch - Challenge de Jeu Multijoueur
+
+## Module Avancé
+
+### 1. Nom du Module
+Scratch Avancé : Développement de Jeux Multijoueurs
+
+### 2. Public
+Chercheurs d'emploi, travailleurs, débutants en programmation
+
+### 3. Prérequis
+Compétences informatiques de base.
+
+### 4. Objectifs
+- Maîtriser les concepts avancés de programmation avec Scratch.
+- Développer des jeux et applications multijoueurs complexes.
+- Implémenter des pratiques de codage efficaces.
+- Améliorer les compétences en résolution de problèmes et en pensée critique.
+- Collaborer sur des projets de développement de jeux.
+
+# Programme 
+## Jour 1, Vendredi :
+- Introduction aux Concepts Avancés de Scratch
+- Approfondissement : Fonctions et Blocs Personnalisés
+- Projet : Création de Blocs de Code Réutilisables
+- Séance de Questions-Réponses et de Feedback
+
+## Jour 2, Lundi :
+- Récapitulation et Révision du Jour 1
+- Gestion Avancée des Données : Listes et Variables Complexes
+- Projet : Construction d'une Application Basée sur les Données
+- Discussion de Groupe et Résolution de Problèmes
+
+## Jour 3, Mardi :
+- Exploration des Structures de Contrôle Avancées et Algorithmes
+- Projet : Conception d'un Jeu Basé sur l'IA
+- Techniques de Débogage et Optimisation des Performances
+- Revue Par les Pairs et Collaboration
+
+## Jour 4, Mercredi :
+- Introduction aux Mécanismes de Jeu Multijoueur
+- Comprendre les Variables Cloud et les WebSockets
+- Projet : Mise en Place d'un Environnement Multijoueur Simple
+- Fonctionnalités Avancées : Clonage et Diffusion de Messages
+- Pratique Assistée et Support
+
+## Jour 5, Jeudi :
+- Récapitulation et Stratégies de Jeux Multijoueurs
+- Projet : Développement d'un Jeu Multijoueur
+- Concepts de Chargement et Réinitialisation des Niveaux
+- Préparation au Challenge Final
+- Mentorat Individuel et Questions-Réponses
+
+## Jour 6, Vendredi :
+- Challenge Final : Créer un Jeu Multijoueur Complet
+- Présentation et Évaluation des Projets
+- Séance de Feedback et Prochaines Étapes
+- Distribution des Certificats et Remarques de Clôture
+
+# Méthodes
+
+Préparer avec une structure de haut niveau et une adaptation junior.
+Cet atelier doit commencer le vendredi pour être le plus efficace.
+Le but est d'évaluer le niveau des étudiants et leurs objectifs après le premier jour de l'atelier.
+En fonction de cela, l'atelier est ajusté pendant le week-end pour répondre aux besoins des participants.
+
+L'atelier est conçu en petits modules d'une demi-journée pour enseigner des compétences qui sont testées sous la forme d'un challenge individuel le vendredi.
+Les ateliers conçus par Éloi Strée sont toujours gratuits et hébergés sur GitHub.
+
+# Matériel
+
+- Répertoire GitHub avec :
+  - Par jour : deux petits exercices, objectifs, mots-clés, liens, description de ce que nous apprenons.
+  - Par semaine : l'objectif d'apprentissage des compétences de la semaine et le challenge de fin de semaine.
+  - Code fourni pour démarrer les exercices.
+
+# Challenge Par Défaut
+
+_Le challenge d'évaluation peut changer en fonction du niveau des étudiants, du calendrier de l'atelier et de l'environnement du centre._
+
+> Description : Développer un jeu multijoueur sophistiqué en utilisant les fonctionnalités avancées de Scratch, incorporant des blocs personnalisés, des variables complexes, des données cloud et des interactions en temps réel.
+
