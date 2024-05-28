@@ -8,7 +8,7 @@
   - Every bit is crucial, particularly in long-term applications.
   - For instance, transmitting 0.1 megabytes per second for 16,512 players in a game results in 47 terabytes per hour of data.
   - Consider the minimal overhead, such as the 3 bytes required for MIDI networking.
-  - Explore the use of UART with Bluetooth Low Energy (BLE) for efficient communication.
+  - Explore the use of UART with Bluetooth Low Energy (BLE) communication.
     
   
 
