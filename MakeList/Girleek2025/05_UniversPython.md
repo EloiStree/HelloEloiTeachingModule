@@ -168,3 +168,41 @@
   - Future directions and potential improvements
 
 
+
+-------------------
+
+# Thematic List
+
+## List of Possible Modules
+
+- 1 week: Python Mastery for Raspberry Pi Pico Applications
+- 1 week: Simulating Keyboard, Joystick, and Mouse Functions with Raspberry Pi Pico
+- 1 week: Utilizing Bluetooth and USB Cable Connectivity for Raspberry Pi Control from a Computer
+- 1 week: Extending Bluetooth Control to Computers, Xbox, and Phones
+
+## Description of Modules
+
+**Python Mastery for Raspberry Pi Pico Applications**
+- Introduction to the Raspberry Pi Pico and its capabilities
+- Setting up the development environment for Python on Raspberry Pi Pico
+- Writing and running Python scripts on the Pico
+- Utilizing the GPIO pins and interfacing with sensors and actuators
+
+**Simulating Keyboard, Joystick, and Mouse Functions with Raspberry Pi Pico**
+- Understanding USB HID (Human Interface Device) protocol
+- Configuring the Raspberry Pi Pico to act as a USB HID device
+- Programming the Pico to simulate keyboard inputs
+- Emulating joystick and mouse functions with the Pico
+
+**Utilizing Bluetooth and USB Cable Connectivity for Raspberry Pi Control from a Computer**
+- Overview of Bluetooth and USB communication protocols
+- Setting up Bluetooth connectivity between the Raspberry Pi Pico and a computer
+- Establishing a USB serial connection for direct control
+- Sending and receiving commands to the Pico via Bluetooth and USB
+
+**Extending Bluetooth Control to Computers, Xbox, and Phones**
+- Configuring the Raspberry Pi Pico for extended Bluetooth functionality
+- Connecting and controlling the Pico from a computer
+- Integrating the Pico with Xbox for custom controller functions
+- Utilizing mobile phones to control the Pico via Bluetooth apps
+
