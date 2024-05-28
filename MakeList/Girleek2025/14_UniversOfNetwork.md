@@ -1,4 +1,4 @@
-# Univers Infrastructures Réseaux
+# 14 Univers Infrastructures Réseaux
 
 - Utilize TCP, UDP, WebSockets, and MQTT protocols in Python, C#, and JavaScript.
   - Learn the appropriate network protocol for each scenario to optimize performance across different programming languages.
@@ -15,3 +15,40 @@
 
 
  
+
+
+# Thematic List
+
+## List of Possible Modules
+
+- 1 week: Utilizing TCP, UDP, WebSockets, and MQTT Protocols in Python, C#, and JavaScript
+- 1 week: Employing Mirror and Photon for Networking in Unity3D Using C#
+- 1 week: Implementing Data Compression Techniques for Efficient Network Transmission
+- 1 week: Exploring UART with Bluetooth Low Energy (BLE) Communication
+
+## Description of Modules
+
+**Utilizing TCP, UDP, WebSockets, and MQTT Protocols in Python, C#, and JavaScript**
+- Overview of TCP, UDP, WebSockets, and MQTT protocols
+- Implementing each protocol in Python, C#, and JavaScript
+- Understanding the appropriate use cases for each protocol
+- Comparing performance and efficiency across different programming languages
+
+**Employing Mirror and Photon for Networking in Unity3D Using C#**
+- Introduction to Mirror and Photon networking frameworks in Unity3D
+- Setting up networking components in Unity3D using C#
+- Implementing multiplayer features such as player synchronization, spawning, and RPCs (Remote Procedure Calls)
+- Optimizing network performance and scalability in Unity3D games
+
+**Implementing Data Compression Techniques for Efficient Network Transmission**
+- Reviewing concepts of bits, bytes, and data transmission rates
+- Calculating data compression ratios and trade-offs
+- Optimizing data packaging for network transmission efficiency
+- Considerations for minimizing data loss and maintaining precision in compressed data
+
+**Exploring UART with Bluetooth Low Energy (BLE) Communication**
+- Understanding UART (Universal Asynchronous Receiver-Transmitter) communication protocol
+- Introduction to Bluetooth Low Energy (BLE) and its applications
+- Setting up UART communication over BLE in Python, C#, and JavaScript
+- Implementing data exchange between devices using UART and BLE
+- Optimizing UART communication for low-power and low-latency applications
