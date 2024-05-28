@@ -3,7 +3,7 @@
 - Les fondamentaux de C#, DOTNET Core
 - Basics of OOP in C#
 
-# Workshop
+# 1. C#
 
 
 - Exploring C#:
