@@ -1,129 +1,124 @@
-
 # 01 Univers DOTNET
 
-- Explorer C# :
-  - Construction d'une application console avec Visual Studio 2022
-  - Développement d'un serveur WebSocket fondamental en C#
-  - Maîtrise de la communication inter-applications : UDP, TCP, WebSocket et interaction de fichiers en mémoire
-  - Utilisation de C# pour le développement de jeux Unity3D
-  - Exploitation de C# pour des applications avancées : mixage audio, automatisation Selenium, intégration Cheat Engine et lancement en lot
+- Découvrez C# :
+  - Comment créer une application simple avec Visual Studio 2022
+  - Comment faire un serveur de messagerie basique en C#
+  - Apprenez à faire communiquer différentes applications : messages courts, longs, et échanges de fichiers
+  - Utilisation de C# pour créer des jeux sur Unity3D
+  - Utilisez C# pour des tâches avancées : traitement audio, automatisation web, gestion de la mémoire et exécution de multiples actions en série
 - C++ :
-  - Utilisation de C++ pour des projets Arduino
-  - Compréhension des fondamentaux de la programmation Arduino
+  - Comment utiliser C++ pour des projets avec Arduino
+  - Introduction à la programmation pour Arduino
 
 --------------
 
 # Liste thématique
 
-## Liste des modules possibles
+## Modules proposés
 
-- 1 semaine : Bases des fondamentaux de C#
-- 1 semaine : Programmation orientée objet (POO) en C#
-- 1 semaine : Construction d'une application console avec Visual Studio 2022
-- 1 semaine : Développement d'un serveur WebSocket fondamental en C#
-- 1 semaine : Maîtrise de la communication inter-applications : UDP, TCP, WebSocket et interaction de fichiers en mémoire
-- 1 semaine : Utilisation de C# pour le développement de jeux Unity3D
-- 1 semaine : Exploitation de C# pour des applications avancées : mixage audio, automatisation Selenium, intégration Cheat Engine et lancement en lot
-- 1 semaine : Utilisation de C++ pour des projets Arduino
-- 1 semaine : Compréhension des fondamentaux de la programmation Arduino
+- 1 semaine : Les bases de C#
+- 1 semaine : Programmation orientée objet (POO) avec C#
+- 1 semaine : Créer une application simple avec Visual Studio 2022
+- 1 semaine : Créer un serveur de messagerie avec C#
+- 1 semaine : Communiquer entre différentes applications : messages courts, longs, et échanges de fichiers
+- 1 semaine : Créer des jeux avec Unity3D en utilisant C#
+- 1 semaine : Utiliser C# pour des tâches avancées : traitement audio, automatisation web, gestion de la mémoire et exécution de multiples actions en série
+- 1 semaine : Utiliser C++ pour des projets avec Arduino
+- 1 semaine : Introduction à la programmation pour Arduino
 
-## Description des modules
+## Détails des modules
 
-**Bases des fondamentaux de C#**
-- Introduction à C# et sa syntaxe
-- Variables, types de données et opérateurs
-- Structures de contrôle : instructions if, boucles
-- Méthodes et gestion des erreurs
+**Les bases de C#**
+- Introduction à C# et son langage simple
+- Variables, types de données et comment les manipuler
+- Contrôler le flux d'exécution avec des instructions conditionnelles et des boucles
+- Gérer les erreurs qui peuvent survenir dans votre code
 
-**Programmation orientée objet (POO) en C#**
-- Principes de la POO : encapsulation, héritage, polymorphisme, abstraction
-- Définition et utilisation de classes et d'objets
-- Constructeurs et destructeurs
-- Interfaces et classes abstraites
+**Programmation orientée objet (POO) avec C#**
+- Les principes fondamentaux de la POO : encapsulation, héritage, polymorphisme et abstraction
+- Comment créer et utiliser des classes et des objets
+- Construire des classes avec des constructeurs et destructeurs
+- Comprendre et utiliser des interfaces et des classes abstraites
 
-**Construction d'une application console avec Visual Studio 2022**
-- Introduction à Visual Studio 2022
-- Configuration d'un nouveau projet d'application console
-- Rédaction et exécution de votre première application console en C#
-- Débogage et test de l'application
+**Créer une application simple avec Visual Studio 2022**
+- Découverte de l'environnement de développement Visual Studio 2022
+- Création d'un projet simple d'application console
+- Écriture et exécution de votre premier programme en C#
+- Débogage et test de votre application
 
-**Développement d'un serveur WebSocket fondamental en C#**
-- Aperçu du protocole WebSocket
-- Configuration d'un serveur WebSocket en C#
-- Gestion des connexions client et des messages
-- Mise en œuvre de mesures de sécurité de base
+**Créer un serveur de messagerie avec C#**
+- Comprendre le protocole WebSocket et comment le mettre en place avec C#
+- Gérer les connexions des clients et échanger des messages
+- Mettre en place des mesures de sécurité de base pour votre serveur
 
-**Maîtrise de la communication inter-applications : UDP, TCP, WebSocket et interaction de fichiers en mémoire**
-- Compréhension des protocoles de communication inter-applications
-- Mise en œuvre de la communication UDP en C#
-- Mise en œuvre de la communication TCP en C#
-- Intégration WebSocket et échange de données
-- Interaction de fichiers en mémoire pour le partage de données à haute vitesse
+**Communiquer entre différentes applications : messages courts, longs, et échanges de fichiers**
+- Comprendre les différents moyens de communication entre applications
+- Mettre en place la communication en utilisant UDP et TCP en C#
+- Utiliser WebSocket pour des échanges de données en temps réel
+- Échanger des fichiers en mémoire pour des transferts de données rapides
 
-**Utilisation de C# pour le développement de jeux Unity3D**
-- Introduction à Unity3D et son interface
-- Configuration d'un script C# dans Unity
-- Création d'objets de jeu et de comportements de script
-- Débogage et optimisation des performances du jeu
+**Créer des jeux avec Unity3D en utilisant C#**
+- Introduction à l'environnement de développement Unity3D
+- Configuration de scripts C# dans Unity
+- Création d'objets de jeu et de comportements à l'aide de scripts
+- Optimisation des performances et débogage de votre jeu
 
-**Exploitation de C# pour des applications avancées : mixage audio, automatisation Selenium, intégration Cheat Engine et lancement en lot**
-- Mixage et traitement audio avec C#
-- Automatisation des tâches avec Selenium en C#
-- Intégration de Cheat Engine avec C# pour la manipulation de mémoire
-- Création de lanceurs en lot pour des flux de travail rationalisés
+**Utiliser C# pour des tâches avancées : traitement audio, automatisation web, gestion de la mémoire et exécution de multiples actions en série**
+- Manipulation et traitement du son avec C#
+- Automatisation de tâches web avec Selenium en C#
+- Gestion de la mémoire avec Cheat Engine en C#
+- Exécution de tâches en série pour des flux de travail efficaces
 
-**Utilisation de C++ pour des projets Arduino**
-- Introduction à Arduino et à la programmation C++
+**Utiliser C++ pour des projets avec Arduino**
+- Introduction à Arduino et à la programmation en C++
 - Configuration de l'environnement de développement Arduino
-- Rédaction et téléversement de votre premier sketch Arduino
-- Interface Arduino avec des composants externes
+- Écriture et téléversement de vos premiers programmes sur Arduino
+- Interfaçage d'Arduino avec des composants externes
 
-**Compréhension des fondamentaux de la programmation Arduino**
-- Concepts de base de la programmation Arduino
-- Travail avec des E/S numériques et analogiques
-- Utilisation de capteurs et d'actionneurs dans les projets Arduino
-- Développement de systèmes Arduino simples
-
-
+**Introduction à la programmation pour Arduino**
+- Les concepts de base de la programmation Arduino
+- Utilisation des entrées/sorties numériques et analogiques
+- Intégration de capteurs et d'actionneurs dans vos projets Arduino
+- Création de systèmes Arduino simples
 
 
 
 # 02 Java
 
-- Se préparer à la certification 1Z0-851 : [Lien Amazon](https://www.amazon.com.be/-/en/Bert-Bates/dp/0072260882)
-- Exploiter Java pour le développement de modules complémentaires natifs dans Unity3D
-- Automatiser des tâches avec l'utilitaire [Robot](https://docs.oracle.com/javase/8/docs/api/java/awt/Robot.html) de Java
+- Préparez-vous à la certification 1Z0-851 : [Lien Amazon](https://www.amazon.com.be/-/en/Bert-Bates/dp/0072260882)
+- Utilisez Java pour créer des modules complémentaires natifs dans Unity3D
+- Automatisez des tâches avec l'utilitaire [Robot](https://docs.oracle.com/javase/8/docs/api/java/awt/Robot.html) de Java
   - Utilisation de clients UDP et WebSocket pour l'automatisation
-- Implémentation du chiffrement de paire de clés RSA en Java
+- Mettez en œuvre le chiffrement de paires de clés RSA en Java
 
 ----------------------
 
 # Liste thématique
 
-## Liste des modules possibles
+## Modules proposés
 
 - 1 semaine : Préparation à la certification 1Z0-851
-- 1 semaine : Exploitation de Java pour le développement de modules complémentaires natifs dans Unity3D
+- 1 semaine : Utilisation de Java pour créer des modules complémentaires natifs dans Unity3D
 - 1 semaine : Automatisation des tâches avec l'utilitaire Robot de Java
 - 1 semaine : Utilisation de clients UDP et WebSocket pour l'automatisation
-- 1 semaine : Implémentation du chiffrement de paire de clés RSA en Java
+- 1 semaine : Implémentation du chiffrement de paires de clés RSA en Java
 
-## Description des modules
+## Détails des modules
 
 **Préparation à la certification 1Z0-851**
 - Introduction à la certification 1Z0-851
 - Révision des principaux sujets et objectifs
 - Stratégies d'étude et ressources disponibles
-- Examens pratiques et tests d'évaluation
+- Exercices pratiques et tests d'évaluation
 
-**Exploitation de Java pour le développement de modules complémentaires natifs dans Unity3D**
-- Aperçu de Unity3D et de son architecture de plug-ins natifs
+**Utilisation de Java pour créer des modules complémentaires natifs dans Unity3D**
+- Introduction à Unity3D et ses modules complémentaires natifs
 - Configuration d'un projet Java pour l'intégration avec Unity3D
 - Création et gestion de modules complémentaires natifs avec Java
 - Débogage et optimisation des modules complémentaires Java dans Unity3D
 
 **Automatisation des tâches avec l'utilitaire Robot de Java**
-- Introduction à la classe Robot de Java et à ses capacités
+- Introduction à la classe Robot de Java et à ses fonctionnalités
 - Programmation de tâches automatisées avec Robot
 - Simulation des interactions utilisateur : actions de la souris et du clavier
 - Gestion des captures d'écran et du traitement d'images
@@ -134,8 +129,8 @@
 - Création d'un client WebSocket en Java pour la communication en temps réel
 - Intégration des clients UDP et WebSocket avec les tâches d'automatisation
 
-**Implémentation du chiffrement de paire de clés RSA en Java**
-- Bases de la cryptographie et du chiffrement RSA
+**Implémentation du chiffrement de paires de clés RSA en Java**
+- Introduction à la cryptographie et au chiffrement RSA
 - Génération de paires de clés RSA en Java
 - Chiffrement et déchiffrement des données avec RSA
 - Gestion sécurisée et stockage des clés de chiffrement
@@ -143,76 +138,70 @@
 
 
 
-# 04 Univers Javascript
+# 04 Univers JavaScript
 
-- Maîtrise des Fondamentaux de JavaScript
-  - Variables, fonctions, threads, bibliothèques
+- Maîtrise des bases de JavaScript
+  - Comprendre les variables, les fonctions, les opérations asynchrones et les bibliothèques
 - Scraping Web avec Tampermonkey : Introduction Pratique à JavaScript
-- Exploitation de la communication client-serveur WebSocket locale et non sécurisée pour la création d'interfaces HTML5
+- Utilisation de la communication client-serveur WebSocket locale et non sécurisée pour créer des interfaces HTML5
 - Implémentation de la Lecture d'Entrée pour XInput, clavier et autres appareils dans une page HTML en utilisant JavaScript
 
 ---------------------
 
 # Liste thématique
 
-## Liste des Modules Possibles
+## Modules proposés
 
-- 1 semaine : Maîtrise des Fondamentaux de JavaScript
+- 1 semaine : Maîtrise des bases de JavaScript
 - 1 semaine : Scraping Web avec Tampermonkey : Introduction Pratique à JavaScript
-- 1 semaine : Exploitation de la Communication Client-Serveur WebSocket Locale et Non Sécurisée pour la Création d'Interfaces HTML5
-- 1 semaine : Implémentation de la Lecture d'Entrée pour XInput, Clavier et Autres Appareils dans une Page HTML en Utilisant JavaScript
+- 1 semaine : Utilisation de la communication client-serveur WebSocket locale et non sécurisée pour créer des interfaces HTML5
+- 1 semaine : Implémentation de la Lecture d'Entrée pour XInput, clavier et autres appareils dans une page HTML en utilisant JavaScript
 
-## Description des Modules
+## Détails des modules
 
-**Maîtrise des Fondamentaux de JavaScript**
-- Introduction à JavaScript et à son environnement
-- Compréhension des variables, des types de données et des opérateurs
-- Définition et utilisation de fonctions
-- Gestion des opérations asynchrones et des threads
-- Exploration des bibliothèques et frameworks JavaScript populaires
+**Maîtrise des bases de JavaScript**
+- Introduction à JavaScript et son environnement de développement
+- Manipulation des variables, fonctions, et opérations asynchrones
+- Exploration des bibliothèques et frameworks JavaScript couramment utilisés
 
 **Scraping Web avec Tampermonkey : Introduction Pratique à JavaScript**
-- Introduction au scraping web et à Tampermonkey
-- Configuration de scripts Tampermonkey pour le scraping web
-- Extraction de données des pages web en utilisant JavaScript
-- Automatisation des tâches répétitives avec des scripts Tampermonkey
+- Découverte du scraping web et de l'extension Tampermonkey
+- Configuration et utilisation de scripts Tampermonkey pour le scraping web
+- Extraction de données à partir de pages web en utilisant JavaScript
+- Automatisation de tâches répétitives avec des scripts Tampermonkey
 
-**Exploitation de la Communication Client-Serveur WebSocket Locale et Non Sécurisée pour la Création d'Interfaces HTML5**
-- Compréhension du protocole WebSocket et de ses applications
+**Utilisation de la communication client-serveur WebSocket locale et non sécurisée pour créer des interfaces HTML5**
+- Compréhension du protocole WebSocket et de son utilisation dans le développement web
 - Configuration d'un serveur WebSocket local
-- Création d'un client WebSocket en utilisant JavaScript
-- Construction d'interfaces HTML5 dynamiques avec des données en temps réel
+- Création d'un client WebSocket en JavaScript pour des échanges de données en temps réel
+- Développement d'interfaces HTML5 interactives alimentées par des données provenant de WebSocket
 
-**Implémentation de la Lecture d'Entrée pour XInput, Clavier et Autres Appareils dans une Page HTML en Utilisant JavaScript**
-- Introduction aux appareils d'entrée et aux APIs JavaScript
-- Lecture des entrées clavier en utilisant JavaScript
-- Intégration de XInput pour le support des contrôleurs de jeu
-- Gestion des entrées provenant de différents appareils dans une page HTML
-- Création d'applications web interactives avec des entrées d'appareils
-
-
-
+**Implémentation de la Lecture d'Entrée pour XInput, clavier et autres appareils dans une page HTML en utilisant JavaScript**
+- Introduction aux appareils d'entrée et à l'API JavaScript pour les interactions utilisateur
+- Lecture des entrées clavier et intégration de XInput pour les contrôleurs de jeu
+- Gestion des entrées provenant de divers appareils dans une page HTML
+- Création d'applications web interactives prenant en charge plusieurs types d'entrées utilisateur
 
 
 
 
 # 05 Python
 
-**Python Essentials:**
-- Maîtrise des Fondamentaux de Python
+**Essentiels Python:**
+- Acquisition des Bases de Python
 - Exploration de l'intégration HID, XInput, Clavier, PostMessage, MIDI, Android ADB, BLE UART avec Python
   - Utilisation de Python pour la lecture d'entrées universelle
-  - Implémentation de Python pour la génération d'entrées polyvalente
-- Accessibilité renforcée avec Python
+  - Implémentation polyvalente de génération d'entrées avec Python
+- Amélioration de l'Accessibilité avec Python
 - Python pour LM Studio : API de modèles IA hors ligne
-- Réseau en Python : UDP, TCP, Serveur-Client WebSocket
-- Introduction aux bases de la clé RSA avec Python
+- Réseautage avec Python : UDP, TCP, Serveur-Client WebSocket
+- Introduction aux fondements de la clé RSA avec Python
 - Exploitation de l'API ChatGPT sur OpenAI avec Python
-- Intégration Whisper hors ligne sur Windows avec Python
+- Intégration hors ligne de Whisper sur Windows avec Python
 
 **Raspberry Pi Pico:**
 - Maîtrise de Python pour les Applications Raspberry Pi Pico
-- Simulation des Fonctions de Clavier, Joystick et Souris avec Raspberry Pi Pico
+- Simulation de Fonctions de Clavier, Joystick et Souris avec Raspberry Pi Pico
 - Utilisation de la Connectivité Bluetooth et par Câble USB pour le Contrôle du Raspberry Pi depuis un Ordinateur
 - Extension du Contrôle Bluetooth aux Ordinateurs, Xbox et Téléphones
 
@@ -222,9 +211,9 @@
 
 # Liste thématique
 
-## Liste des Modules Possibles
+## Modules proposés
 
-- 1 semaine : Introduction aux Fondamentaux de Python
+- 1 semaine : Introduction aux Bases de Python
 - 1 semaine : Python pour la Gestion de Diverses Entrées
 - 1 semaine : Applications Python pour l'Accessibilité
 - 1 semaine : Python pour l'IA et les Modèles Hors Ligne
@@ -233,53 +222,49 @@
 - 1 semaine : Utilisation de l'API OpenAI avec Python
 - 1 semaine : Reconnaissance Vocale Hors Ligne avec Whisper et Python
 
-## Description des Modules
+## Détails des modules
 
-**Introduction aux Fondamentaux de Python**
-- **Partie 1: Démarrage avec Python**
+**Introduction aux Bases de Python**
+- **Partie 1: Débuter avec Python**
   - Installation de Python et configuration de l'environnement de développement
   - Syntaxe de base, variables et types de données
-  - Rédaction et exécution de votre premier programme Python
+  - Rédaction et exécution du premier script Python
 - **Partie 2: Structures de Contrôle et Fonctions**
   - Instructions conditionnelles et boucles
   - Définition et appel de fonctions
-  - Portée et durée de vie des variables
+  - Portée des variables et manipulation des exceptions
 - **Partie 3: Structures de Données et Modules**
   - Listes, tuples, dictionnaires et ensembles
-  - Utilisation de modules intégrés
-  - Importation et utilisation de bibliothèques tierces
-- **Partie 4: Manipulation de Fichiers et Gestion des Exceptions**
-  - Lecture depuis et écriture dans des fichiers
-  - Gestion des exceptions et débogage
-  - Bonnes pratiques pour écrire un code propre et efficace
+  - Utilisation de modules intégrés et externes
+  - Bonnes pratiques de codage et gestion des erreurs
 
 **Python pour la Gestion de Diverses Entrées**
-- **Partie 1: Dispositifs d'Interface Humaine (HID)**
+- **Partie 1: Interfaces Humaines (HID)**
   - Introduction à HID
-  - Utilisation de Python pour lire des entrées à partir de claviers et de souris
-  - Programmation avec la bibliothèque `pyhidapi`
+  - Lecture d'entrées de claviers et de souris avec Python
+  - Utilisation de la bibliothèque `pyhidapi`
 - **Partie 2: Manettes de Jeu et XInput**
   - Aperçu de XInput
-  - Lecture des entrées des manettes de jeu en utilisant Python
-  - Exemples pratiques avec la bibliothèque `pygame`
+  - Lecture d'entrées de manettes de jeu avec Python
+  - Exemples pratiques avec `pygame`
 - **Partie 3: Entrée PostMessage et MIDI**
-  - Utilisation de `PostMessage` pour l'automatisation des entrées Windows
+  - Automatisation des entrées Windows avec `PostMessage`
   - Lecture et traitement des entrées MIDI avec Python
   - Bibliothèques pour l'interaction MIDI (`mido`, `pygame.midi`)
 - **Partie 4: Android ADB et UART BLE**
-  - Communication avec les appareils Android en utilisant ADB et Python
+  - Communication avec des appareils Android via ADB et Python
   - Introduction à Bluetooth Low Energy (BLE) et UART
-  - Implémentation de la communication UART BLE en Python
+  - Implémentation de la communication UART BLE avec Python
 
 **Applications Python pour l'Accessibilité**
 - **Partie 1: Technologies d'Assistance et Python**
-  - Aperçu des technologies d'assistance
+  - Vue d'ensemble des technologies d'assistance
   - Bibliothèques Python pour l'accessibilité (`pyautogui`, `speech_recognition`)
-  - Construction d'outils d'assistance de base avec Python
+  - Développement d'outils d'assistance avec Python
 - **Partie 2: Reconnaissance et Contrôle Vocal**
-  - Implémentation de commandes vocales en utilisant Python
+  - Implémentation de commandes vocales avec Python
   - Utilisation de la bibliothèque `speech_recognition`
-  - Applications pratiques pour les systèmes contrôlés par la voix
+  - Applications pratiques pour les systèmes de contrôle vocal
 - **Partie 3: Vision et Détection d'Objets**
   - Introduction à la vision par ordinateur avec Python
   - Bibliothèques pour la détection d'objets (`OpenCV`, `TensorFlow`)
@@ -287,79 +272,78 @@
 
 **Python pour l'IA et les Modèles Hors Ligne**
 - **Partie 1: Modèles Locaux et LM Studio**
-  - Aperçu de LM Studio et de ses fonctionnalités
-  - Configuration de LM Studio pour une utilisation de modèles hors ligne
+  - Présentation de LM Studio et de ses fonctionnalités
+  - Configuration pour l'utilisation de modèles hors ligne
   - Intégration de LM Studio avec des applications Python
 
 **Programmation Réseau en Python**
-- **Partie 1: Introduction aux Concepts Réseau**
-  - Bases des réseaux informatiques
-  - Compréhension des protocoles réseau (UDP, TCP, WebSocket)
-  - Configuration d'un environnement Python pour la programmation réseau
+- **Partie 1: Concepts Réseau**
+  - Fondements des réseaux informatiques
+  - Protocoles réseau (UDP, TCP, WebSocket)
+  - Configuration de Python pour le réseau
 - **Partie 2: Programmation UDP et TCP**
-  - Création de clients et de serveurs UDP avec Python
-  - Construction de clients et de serveurs TCP
-  - Exemples pratiques et résolution des problèmes courants
+  - Clients et serveurs UDP avec Python
+  - Clients et serveurs TCP
+  - Exemples pratiques et résolution de problèmes
 - **Partie 3: Programmation WebSocket**
-  - Compréhension du protocole WebSocket
-  - Implémentation de clients et de serveurs WebSocket en Python
-  - Cas d'utilisation et applications réelles
+  - Protocole WebSocket
+  - Clients et serveurs WebSocket avec Python
+  - Cas d'utilisation et exemples
 
 **Bases de la Cryptographie avec Python**
 - **Partie 1: Introduction à la Cryptographie**
-  - Concepts de base et terminologie en cryptographie
-  - Aperçu historique et applications modernes
-  - Configuration de bibliothèques cryptographiques en Python
+  - Concepts et terminologie de la cryptographie
+  - Applications modernes
+  - Configuration des bibliothèques cryptographiques en Python
 - **Partie 2: Chiffrement Symétrique et Asymétrique**
   - Compréhension du chiffrement symétrique
-  - Introduction au chiffrement asymétrique et à RSA
-  - Implémentation d'opérations cryptographiques de base en Python
+  - Introduction à RSA et au chiffrement asymétrique
+  - Implémentation de l'essentiel de la cryptographie en Python
 - **Partie 3: Génération et Gestion des Clés RSA**
-  - Création de clés RSA avec Python
-  - Chiffrement et déchiffrement des données en utilisant RSA
-  - Exemples pratiques et meilleures pratiques
--
+  - Création de clés RSA
+  - Chiffrement et déchiffrement des données
+  - Exemples pratiques et meilleures pratiquesv
 
 
 
 # 06 Web
 
-**Exploring OGame à travers le Code:  HTML, Selenium, et Web Scraping**
-- Plongez dans OGame avec du Code pour Maîtriser HTML, Selenium et les Techniques de Scraping
-  - Exploiter Tampermonkey pour le Scraping de Site Web et l'Injection HTML
-  - Utiliser Selenium en C# pour l'Extraction Efficace de Pages HTML de Site Web
-  - Viser à explorer les bases de HTML en s'amusant à modifier un vieux jeu sur un site web.
+**Exploration d'OGame à travers le Code: HTML, Selenium et Web Scraping**
+- Plongez dans l'univers d'OGame en utilisant du code pour maîtriser HTML, Selenium et les techniques de scraping web.
+  - Exploitation de Tampermonkey pour le scraping de sites web et l'injection HTML.
+  - Utilisation de Selenium en C# pour extraire efficacement des pages HTML de sites web.
+  - Découverte des bases de HTML en modifiant un vieux jeu sur un site web.
 
 --------------------
 
 # Liste thématique
 
-## Liste des Modules Possibles
+## Modules proposés
 
-- 1 semaine : Plongez dans OGame avec du Code pour Maîtriser HTML, Selenium et les Techniques de Scraping
-- 1 semaine : Exploiter Tampermonkey pour le Scraping de Site Web et l'Injection HTML
-- 1 semaine : Utiliser Selenium en C# pour l'Extraction Efficace de Pages HTML de Site Web
+- 1 semaine : Exploration d'OGame à travers le Code: HTML, Selenium et Web Scraping
+- 1 semaine : Exploitation de Tampermonkey pour le Scraping de Site Web et l'Injection HTML
+- 1 semaine : Utilisation de Selenium en C# pour l'Extraction Efficace de Pages HTML de Site Web
 - 1 semaine : Exploration des Bases de HTML en Modifiant un Vieux Jeu sur un Site Web
 
-## Description des Modules
+## Détails des modules
 
-**Plongez dans OGame avec du Code pour Maîtriser HTML, Selenium et les Techniques de Scraping**
+**Exploration d'OGame à travers le Code: HTML, Selenium et Web Scraping**
 - Introduction à OGame et son interface web
 - Structure HTML de base et éléments utilisés dans OGame
 - Configuration d'un environnement de développement pour le scraping web
 - Utilisation de Selenium pour naviguer et interagir avec OGame
 - Extraction et manipulation des données des pages OGame
 
-**Exploiter Tampermonkey pour le Scraping de Site Web et l'Injection HTML**
+**Exploitation de Tampermonkey pour le Scraping de Site Web et l'Injection HTML**
 - Introduction à Tampermonkey et aux scripts utilisateur
 - Rédaction de scripts Tampermonkey pour OGame
 - Techniques pour le scraping de données à partir d'OGame en utilisant JavaScript
 - Injection de HTML personnalisé et amélioration de l'interface OGame
 
-**Utiliser Selenium en C# pour l'Extraction Efficace de Pages HTML de Site Web**
+**Utilisation de Selenium en C# pour l'Extraction Efficace de Pages HTML de Site Web**
 - Aperçu de Selenium WebDriver et son utilisation en C#
 - Configuration de Selenium dans un environnement de développement C#
-- Automatisation des actions du navigateur pour scraper les données d'OGame
+- Automatisation des actions du navigateur pour extraire les données d'OGame
 - Analyse et traitement du contenu HTML avec C# et Selenium
 - Garantir une extraction de données efficace et fiable
 
@@ -372,48 +356,44 @@
 
 
 
-
-
 # 08 No Code
 
 - Apprendre à créer un jeu vidéo sans code sur Scratch pour apprendre la programmation.
 - Apprendre à créer un Stream Deck sur Scratch pour interagir avec des applications externes.
 - Créer des effets visuels dans Unity3D sans aucun code : Système de particules et Shader Graph.
 
+-------------------------
+
 # Liste thématique
 
-## Liste des Modules Possibles
+## Modules proposés
 
-- 1 semaine : Apprendre à Créer un Jeu Vidéo Sans Code sur Scratch pour Apprendre la Programmation
-- 1 semaine : Apprendre à Créer un Stream Deck sur Scratch pour Interagir avec des Applications Externes
-- 1 semaine : Créer des Effets Visuels dans Unity3D Sans Aucun Code : Système de Particules et Shader Graph
+- 1 semaine : Création de Jeux Vidéo Sans Code sur Scratch pour Apprendre la Programmation
+- 1 semaine : Création d'un Stream Deck sur Scratch pour l'Interaction avec des Applications Externes
+- 1 semaine : Création d'Effets Visuels dans Unity3D Sans Aucun Code : Système de Particules et Shader Graph
 
-## Description des Modules
+## Détails des modules
 
-**Apprendre à Créer un Jeu Vidéo Sans Code sur Scratch pour Apprendre la Programmation**
+**Création de Jeux Vidéo Sans Code sur Scratch pour Apprendre la Programmation**
 - Introduction à Scratch et à son interface de programmation visuelle
-- Compréhension des concepts de base de la programmation en utilisant des blocs Scratch
+- Apprentissage des concepts de base de la programmation avec les blocs Scratch
 - Conception de personnages et d'arrière-plans pour votre jeu
-- Implémentation des mécaniques de jeu et des interactions
+- Implémentation de mécaniques de jeu et d'interactions sans écrire de code
 - Test et débogage de votre jeu Scratch
 
-**Apprendre à Créer un Stream Deck sur Scratch pour Interagir avec des Applications Externes**
-- Aperçu des capacités de Scratch pour les interactions externes
-- Conception d'une interface Stream Deck personnalisée sur Scratch
+**Création d'un Stream Deck sur Scratch pour l'Interaction avec des Applications Externes**
+- Découverte des capacités de Scratch pour l'interaction avec des applications externes
+- Conception d'une interface personnalisée de Stream Deck sur Scratch
 - Utilisation des extensions Scratch pour communiquer avec des applications externes
 - Implémentation d'actions de bouton pour contrôler des applications et des scripts
-- Test et perfectionnement de votre Stream Deck basé sur Scratch
+- Test et amélioration de votre Stream Deck basé sur Scratch
 
-**Créer des Effets Visuels dans Unity3D Sans Aucun Code : Système de Particules et Shader Graph**
-- Introduction à Unity3D et à ses outils de script visuel
+**Création d'Effets Visuels dans Unity3D Sans Aucun Code : Système de Particules et Shader Graph**
+- Introduction à Unity3D et à ses outils de scripting visuel
 - Compréhension du Système de Particules Unity et de ses composants
 - Création d'effets visuels dynamiques en utilisant le Système de Particules
-- Introduction à Shader Graph pour créer des shaders personnalisés
+- Introduction au Shader Graph pour la création de shaders personnalisés
 - Conception et implémentation de shaders pour des effets visuels uniques dans Unity3D
-
-
-
-
 
 
 # 09 Univers Mobile
@@ -426,11 +406,11 @@
 - Utilisation d'OBS pour enregistrer et automatiser les tests mobiles
 - Gestion de flotte avec ADB : MDM vs ADB ?
 
--------------------
+-------------------------
 
 # Liste Thématique
 
-## Liste des Modules Possibles
+## Modules proposés
 
 - 1 semaine : Qu'est-ce que SCRCPY ?
 - 1 semaine : Qu'est-ce que ADB ?
@@ -440,7 +420,7 @@
 - 1 semaine : Utilisation d'OBS pour Enregistrer et Automatiser les Tests Mobiles
 - 1 semaine : Gestion de Flotte avec ADB : MDM vs ADB
 
-## Description des Modules
+## Détails des Modules
 
 **Qu'est-ce que SCRCPY ?**
 - Introduction à SCRCPY et ses fonctionnalités
@@ -484,9 +464,6 @@
 - Avantages et limites de l'utilisation de ADB pour la gestion de flotte
 - Implémentation de ADB pour une gestion efficace de plusieurs appareils Android
 
-
-
-
 # 13 Sécurité
 
 - Module Exploration de RSA en C#, Python et JavaScript pour la sécurité des messages
@@ -499,11 +476,11 @@
 - Piratage du Clavier de la Console d'Administration via USB et BLE
 - Protection des Fichiers de Jeu contre les Modifications en Utilisant le Hachage
 
-----------------
+-------------------------
 
 # Liste Thématique
 
-## Liste des Modules Possibles
+## Modules proposés
 
 - 1 semaine : Exploration de RSA en C#, Python et JavaScript pour la sécurité des messages
 - 1 semaine : Techniques de Piratage de Jeux : Injection de Lua
@@ -514,7 +491,7 @@
 - 1 semaine : Piratage du Clavier de la Console d'Administration via USB et BLE
 - 1 semaine : Protection des Fichiers de Jeu contre les Modifications en Utilisant le Hachage
 
-## Description des Modules
+## Détails des Modules
 
 **Exploration de RSA en C#, Python et JavaScript pour la sécurité des messages**
 - Introduction au chiffrement RSA et ses applications
@@ -567,13 +544,7 @@
 
 **Protection des Fichiers de Jeu contre les Modifications en Utilisant le Hachage**
 - Introduction aux algorithmes de hachage et leur importance
-- Implémentation du hachage pour la vérification de l'intégrité des fichiers
-- Techniques de protection des fichiers et des données de jeu
-- Intégration du hachage dans les flux de travail de développement de jeu
-- Réponse aux modifications de fichiers et maintien de la sécurité
-
-
-
+- Implémentation
 
 
 
@@ -592,7 +563,7 @@
 
 # Liste Thématique
 
-## Liste des Modules Possibles
+## Modules Proposés
 
 - 1 semaine: Utilisation des Protocoles TCP, UDP, WebSockets et MQTT en Python, C# et JavaScript
 - 1 semaine: Utilisation de Mirror et Photon pour le Réseau dans Unity3D en Utilisant C#
@@ -626,29 +597,22 @@
 - Implémentation de l'échange de données entre les appareils en utilisant UART et BLE
 - Optimisation de la communication UART pour des applications à faible consommation d'énergie et à faible latence
 
+# 23 Solutions pour une Meilleure Accessibilité
 
+- Utilisation de Fusion 360 pour créer des dessins techniques afin d'améliorer l'accessibilité, en combinant des logiciels pour des résultats plus efficaces.
+- Développement d'une alternative à Alexa basée sur Python pour automatiser des tâches en fonction des besoins individuels.
+- Fabrication de formes sur mesure en utilisant l'impression 3D pour répondre aux besoins en matière d'accessibilité.
+- Assemblage d'un clavier Raspberry Pi Pico adapté aux personnes en situation de handicap.
+- Utilisation de Unity pour créer des applications de réalité augmentée qui prennent en charge la webcam (OpenCV, Vuforia) en utilisant le langage C#.
+- Activation de ChatGPT pour aider les personnes malvoyantes à reconnaître des images en utilisant la voix.
+- Exploration de l'Oculus Quest 3(+) pour offrir des expériences visuelles améliorées aux personnes aveugles.
+- Mise en place d'une automatisation en Python pour permettre aux patients hospitalisés d'accéder à Internet après un accident.
+- Utilisation de l'automatisation en Python pour aider les joueurs ayant des handicaps physiques.
+- Exploitation du code natif de Windows pour fournir un contexte audio aux utilisateurs malvoyants.
 
+# Liste des Thèmes et Modules
 
-
-
-# 23 Innovations en Accessibilité
-
-- Utiliser Fusion 360 pour la conception matérielle, associée à des logiciels, pour améliorer l'accessibilité.
-- Développer une alternative à Alexa basée sur Python pour l'automatisation adaptée aux besoins individuels.
-- Imprimer en 3D des formes personnalisées pour les besoins en matière d'accessibilité.
-- Construire un clavier Raspberry Pi Pico pour les utilisateurs en situation de handicap.
-- Mettre en œuvre Unity pour des applications de réalité augmentée avec prise en charge de la webcam (OpenCV, Vuforia) en C#.
-- Activer ChatGPT pour la reconnaissance d'images avec la voix pour les personnes malvoyantes.
-- Explorer l'Oculus Quest 3(+) pour des expériences visuelles améliorées pour les aveugles.
-- Employer l'automatisation Python pour permettre aux patients hospitalisés d'accéder à Internet après un accident.
-- Utiliser l'automatisation Python pour aider les joueurs ayant des handicaps physiques.
-- Tirer parti du code natif de Windows pour fournir un contexte audio aux utilisateurs malvoyants.
-
-- ------------------
-
-# Liste Thématique
-
-## Liste des Modules Possibles
+## Modules Proposés
 
 - 1 semaine: Intégration Matérielle et Logicielle pour l'Accessibilité
 - 1 semaine: Automatisation Vocale avec Python
@@ -656,53 +620,46 @@
 - 1 semaine: Clavier Assistif Raspberry Pi Pico
 - 1 semaine: Applications de Réalité Augmentée avec Unity, OpenCV et Vuforia
 - 1 semaine: Intégration de ChatGPT pour les Technologies d'Assistance
-- 1 semaine: Solutions de Réalité Virtuelle pour l'Impairment Visuel
-- 1 semaine: Automatisation Python pour les Patients Hospitalisés
-- 1 semaine: Jeux Adaptatifs avec l'Automatisation Python
-- 1 semaine: Solutions de Contexte Audio pour l'Impairment Visuel sous Windows
+- 1 semaine: Solutions de Réalité Virtuelle pour les Déficiences Visuelles
+- 1 semaine: Automatisation Python pour les Patients en Milieu Hospitalier
+- 1 semaine: Jeux Adaptés avec Automatisation Python
+- 1 semaine: Solutions d'Aide Auditive pour les Déficiences Visuelles sous Windows
 
 ## Description des Modules
 
 **Intégration Matérielle et Logicielle pour l'Accessibilité**
-- Explorer l'intégration de composants matériels conçus avec Fusion 360 avec des solutions logicielles pour améliorer l'accessibilité.
-- Les étudiants apprendront à concevoir et à imprimer en 3D des prototypes matériels adaptés à des besoins d'accessibilité spécifiques et à les intégrer avec des interfaces logicielles.
-- Les sujets abordés incluront les principes de conception centrés sur l'utilisateur, les protocoles de communication matériel-logiciel et les tests d'utilisabilité pour l'accessibilité.
+- Apprentissage de la création de prototypes matériels adaptés aux besoins d'accessibilité en combinant des logiciels avec des outils de conception comme Fusion 360.
+- Les participants découvriront les principes de conception centrés sur l'utilisateur et l'intégration matérielle-logicielle pour améliorer l'accessibilité.
 
 **Automatisation Vocale avec Python**
-- Ce module se concentre sur la création de systèmes d'automatisation vocale utilisant Python, similaire à un assistant de type Alexa.
-- Les étudiants apprendront à utiliser des bibliothèques comme SpeechRecognition et PyAudio pour traiter les commandes vocales et déclencher des tâches automatisées.
-- Les sujets abordés incluront le traitement du langage naturel, la synthèse vocale et l'intégration de scripts d'automatisation avec des périphériques matériels.
+- Création de systèmes d'automatisation vocale utilisant Python, avec l'utilisation de bibliothèques comme SpeechRecognition et PyAudio pour traiter les commandes vocales.
+- Ce module couvrira également la synthèse vocale et l'intégration de scripts d'automatisation avec des dispositifs matériels.
 
 **Impression 3D pour des Solutions d'Accessibilité**
-- Dans ce module, les étudiants exploreront le potentiel de la technologie d'impression 3D pour créer des solutions personnalisées pour les défis d'accessibilité.
-- Les étudiants apprendront à concevoir et à imprimer des formes adaptées pour répondre à des besoins d'accessibilité spécifiques, tels que des poignées ergonomiques ou des panneaux tactiles.
-- Les sujets abordés incluront la modélisation CAO avec Fusion 360, les logiciels de découpe pour l'impression 3D et les considérations de sélection de matériaux.
+- Exploration des possibilités offertes par l'impression 3D pour créer des solutions sur mesure pour les défis d'accessibilité.
+- Les participants apprendront à concevoir et à imprimer des formes adaptées à des besoins spécifiques, en utilisant des logiciels de modélisation et de découpe appropriés.
 
 **Clavier Assistif Raspberry Pi Pico**
-- Ce module se concentre sur la création d'un clavier assistif en utilisant des microcontrôleurs Raspberry Pi Pico.
-- Les étudiants apprendront à concevoir et à programmer des dispositifs d'entrée personnalisés adaptés aux utilisateurs en situation de handicap, tels que de grands boutons ou des méthodes d'entrée alternatives.
-- Les sujets abordés incluront la programmation GPIO, l'émulation de clavier et les fonctionnalités d'accessibilité en Python.
+- Création d'un clavier adapté aux besoins spécifiques des utilisateurs en situation de handicap en utilisant Raspberry Pi Pico.
+- Les participants acquerront des compétences en programmation GPIO et en émulation de clavier pour concevoir des dispositifs d'entrée alternatifs.
 
 **Applications de Réalité Augmentée avec Unity, OpenCV et Vuforia**
-- Explorer l'intégration des technologies de vision par ordinateur avec la réalité augmentée en utilisant Unity, OpenCV et Vuforia.
-- Les étudiants apprendront à développer des
+- Utilisation de technologies de réalité augmentée combinées à des outils de vision par ordinateur pour créer des expériences interactives.
+- Ce module enseignera le développement d'applications AR immersives pour diverses applications, y compris l'assistance aux personnes handicapées.
+
+---
 
 
+# 24 Ensemble Complet d'Outils d'IA
 
+- Intégration fluide de l'API OpenAI avec Python et C# pour une utilisation flexible (Console ou Unity3D).
+- Utilisation de LM Studio avec Python pour développer des capacités d'IA hors ligne.
+- Utilisation de Whisper Offline pour Windows afin de transcrire l'audio et la vidéo en texte dans différentes langues.
+- Maîtrise des techniques de scraping pour collecter des données de jeux et d'applications, permettant des tests automatisés pilotés par l'IA.
 
+# Liste des Thèmes et Modules
 
-# 24 Boîte à Outils AI Complète
-
-- Intégrer parfaitement l'API OpenAI avec Python et C# pour une utilisation polyvalente (Console ou Unity3D).
-- Utiliser LM Studio avec Python pour développer des capacités d'IA hors ligne.
-- Utiliser Whisper Offline pour Windows pour convertir l'audio et la vidéo en texte dans diverses langues.
-- Maîtriser les techniques de scraping pour agréger les données de jeux et d'applications, permettant des tests automatisés pilotés par l'IA.
-
-----------
-
-# Liste Thématique
-
-## Liste des Modules Possibles
+## Modules Proposés
 
 - 1 semaine: Intégration de l'API OpenAI avec Python et C#
 - 1 semaine: Création d'IA Hors Ligne avec LM Studio et Python
@@ -713,44 +670,39 @@
 
 **Intégration de l'API OpenAI avec Python et C#**
 - Ce module se concentre sur l'utilisation de l'API OpenAI pour développer des applications en utilisant Python et C#.
-- Les étudiants apprendront à interagir avec les puissants modèles de traitement du langage naturel d'OpenAI pour générer du texte, répondre à des questions et effectuer des tâches liées au langage.
-- Les sujets abordés incluront l'authentification de l'API, la manipulation des requêtes et l'intégration de contenu généré par l'IA dans des scripts Python et des projets Unity3D.
+- Les participants apprendront à utiliser les modèles de traitement du langage naturel d'OpenAI pour générer du texte, répondre à des questions et réaliser des tâches liées au langage.
+- Ils seront initiés à l'authentification de l'API, à la manipulation des requêtes et à l'intégration de contenu généré par l'IA dans des scripts Python et des projets Unity3D.
 
 **Création d'IA Hors Ligne avec LM Studio et Python**
-- Explorez les capacités de LM Studio et de Python pour créer des modèles d'IA pouvant être utilisés hors ligne.
-- Les étudiants apprendront à entraîner des modèles de langage à l'aide de LM Studio et à développer des scripts Python pour déployer et interagir avec ces modèles localement.
-- Les sujets abordés incluront le réglage fin des modèles pré-entraînés, le déploiement des modèles et la création d'interfaces utilisateur pour des applications d'IA hors ligne.
+- Découverte des fonctionnalités de LM Studio et de Python pour construire des modèles d'IA utilisables sans connexion Internet.
+- Les participants seront guidés dans l'entraînement de modèles de langage avec LM Studio et le développement de scripts Python pour déployer et interagir avec ces modèles localement.
+- Ils exploreront le réglage fin des modèles pré-entraînés, le déploiement et la création d'interfaces utilisateur pour des applications d'IA hors ligne.
 
 **Transcription Audio et Vidéo Hors Ligne avec Whisper pour Windows**
-- Ce module se concentre sur l'utilisation de Whisper Offline pour Windows pour transcrire le contenu audio et vidéo en texte dans n'importe quelle langue sans nécessiter de connexion Internet.
-- Les étudiants apprendront à configurer Whisper Offline et à développer des scripts Python pour traiter le texte transcrit pour diverses applications.
+- Ce module met l'accent sur l'utilisation de Whisper Offline pour Windows afin de transcrire l'audio et la vidéo en texte dans diverses langues sans nécessiter de connexion Internet.
+- Les participants apprendront à configurer Whisper Offline et à utiliser des scripts Python pour traiter le texte transcrit dans diverses applications.
 - Les sujets abordés incluront le traitement audio et vidéo, la traduction linguistique et l'intégration du texte transcrit dans d'autres applications logicielles.
 
 **Tests Automatisés de Jeux et d'Applications avec le Web Scraping et l'IA**
-- Explorez les techniques de scraping pour récupérer des informations de jeux et d'applications afin de permettre des tests automatisés pilotés par l'IA.
-- Les étudiants apprendront à collecter des données auprès de diverses sources telles que les magasins d'applications et les référentiels de jeux en utilisant des outils et des techniques de web scraping.
-- Les sujets abordés incluront l'extraction de données, le prétraitement des données et la formation de modèles d'IA pour automatiser le processus de test basé sur les informations récupérées.
+- Exploration des techniques de scraping pour collecter des données de jeux et d'applications en vue de tests automatisés pilotés par l'IA.
+- Les participants acquerront des compétences dans l'extraction de données à partir de diverses sources telles que les magasins d'applications et les référentiels de jeux en utilisant des outils et des méthodes de web scraping.
+- Ils découvriront l'extraction de données, le prétraitement des données et la formation de modèles d'IA pour automatiser le processus de test basé sur les informations récupérées.
 
+---
 
+# 26 Amélioration des Capacités de Test
 
+- Maîtrise de Python pour automatiser diverses entrées : clavier, joystick, Xinput, MIDI, etc.
+- Utilisation de techniques de scraping pour collecter des données d'application et de jeu afin de générer des journaux de test complets.
+- Acquisition de compétences en lecture et écriture de toutes les entrées sur Windows pour des procédures de test approfondies.
+- Exploration des techniques de piratage de jeux pour permettre des méthodologies de test avancées.
+- Acquisition d'une expertise dans le piratage de jeux pour extraire des données pour les tests d'IA et développer des bots de base.
+- Apprentissage de l'enregistrement efficace des écrans Android en utilisant OBS et SCR CPY, combinés à l'automatisation.
+- Développement de compétences de scripting pour les plateformes officielles Xbox et PlayStation sans utiliser de kits de développement, améliorant ainsi les capacités de test.
 
+# Liste des Thèmes et Modules
 
-
-# 26 Capacités de Test Améliorées
-
-- Maîtriser Python pour automatiser diverses entrées : clavier, joystick, Xinput, MIDI, etc.
-- Utiliser des techniques de scraping pour recueillir des données d'application et de jeu afin de générer des journaux de test complets.
-- Acquérir une compétence en lecture et écriture de toutes les entrées sur Windows pour des procédures de test approfondies.
-- Explorer les techniques de piratage de jeux pour permettre des méthodologies de test avancées.
-- Acquérir une expertise dans le piratage de jeux pour extraire des données pour les tests d'IA et développer des bots de base.
-- Apprendre à enregistrer efficacement les écrans Android en utilisant OBS et SCR CPY, combinés à l'automatisation.
-- Développer des compétences de scripting pour les plateformes officielles Xbox et PlayStation sans utiliser de kits de développement, améliorant les capacités de test.
-
-------------------------
-
-# Liste Thématique
-
-## Liste des Modules Possibles
+## Modules Proposés
 
 - 1 semaine: Automatisation Python pour les Périphériques d'Entrée
 - 1 semaine: Web Scraping pour des Journaux de Test Complets
@@ -763,84 +715,79 @@
 ## Description des Modules
 
 **Automatisation Python pour les Périphériques d'Entrée**
-- Ce module se concentre sur la maîtrise de Python pour automatiser divers périphériques d'entrée tels que les claviers, les joysticks, les contrôleurs Xinput et les périphériques MIDI à des fins de test.
-- Les étudiants apprendront à développer des scripts pour simuler des entrées utilisateur, gérer différents périphériques d'entrée et intégrer l'automatisation dans des cadres de test.
-- Les sujets abordés incluront les bibliothèques de périphériques d'entrée, la gestion d'événements et la création de scénarios d'entrée personnalisés pour les tests.
+- Ce module se concentre sur l'utilisation de Python pour automatiser divers périphériques d'entrée tels que les claviers, les joysticks, les contrôleurs Xinput et les périphériques MIDI à des fins de test.
+- Les participants apprendront à simuler des entrées utilisateur, gérer différents périphériques d'entrée et intégrer l'automatisation dans des cadres de test à l'aide de scripts Python.
+- Ils aborderont les bibliothèques de périphériques d'entrée, la gestion d'événements et la création de scénarios d'entrée personnalisés pour les tests.
 
 **Web Scraping pour des Journaux de Test Complets**
-- Explorez les techniques de scraping pour recueillir des données d'application et de jeu en vue de générer des journaux de test complets.
-- Les étudiants apprendront à extraire des informations de diverses sources telles que les magasins d'applications, les bases de données de jeux et les forums en ligne à l'aide d'outils et de bibliothèques de web scraping.
-- Les sujets abordés incluront l'extraction de données, le prétraitement des données et la génération de journaux de test structurés à partir des données extraites.
+- Exploration des techniques de scraping pour collecter des données d'application et de jeu en vue de générer des journaux de test complets.
+- Les participants apprendront à extraire des informations de diverses sources telles que les magasins d'applications, les bases de données de jeux et les forums en ligne à l'aide d'outils et de bibliothèques de web scraping.
+- Ils exploreront l'extraction de données, le prétraitement des données et la génération de journaux de test structurés à partir des données extraites.
 
 **Lecture et Écriture d'Entrées sur Windows pour les Tests**
-- Acquérir une compétence en lecture et écriture d'entrées sur les systèmes Windows pour effectuer des procédures de test approfondies.
-- Les étudiants apprendront à interagir avec des périphériques d'entrée au niveau bas, à capturer des événements d'entrée et à manipuler des flux d'entrée à des fins de test.
-- Les sujets abordés incluront la programmation de l'API Windows, la surveillance des entrées et la création de pilotes d'entrée personnalisés pour les tests.
+- Acquisition de compétences en lecture et écriture d'entrées sur les systèmes Windows pour effectuer des procédures de test approfondies.
+- Les participants apprendront à interagir avec des périphériques d'entrée au niveau bas, à capturer des événements d'entrée et à manipuler des flux d'entrée à des fins de test.
+- Ils aborderont la programmation de l'API Windows, la surveillance des entrées et la création de pilotes d'entrée personnalisés pour les tests.
 
 **Méthodologies de Test Avancées : Techniques de Piratage de Jeux**
-- Explorez les techniques de piratage de jeux pour permettre des méthodologies de test avancées au-delà des approches traditionnelles.
-- Les étudiants apprendront sur la manipulation de la mémoire, l'injection de code et les techniques d'ingénierie inverse pour modifier le comportement des jeux à des fins de test.
-- Les sujets abordés incluront la numérisation de la mémoire, l'injection de DLL et le développement de tricheurs pour les tests de jeux.
+- Exploration des techniques de piratage de jeux pour permettre des méthodologies de test avancées au-delà des approches traditionnelles.
+- Les participants apprendront la manipulation de la mémoire, l'injection de code et les techniques d'ingénierie inverse pour modifier le comportement des jeux à des fins de test.
+- Ils aborderont la numérisation de la mémoire, l'injection de DLL et le développement de tricheurs pour les tests de jeux.
 
 **Extraction de Données de Jeu et Tests d'IA avec des Bots de Base**
-- Acquérir une expertise dans le piratage de jeux pour extraire des données pour les tests d'IA et développer des bots de base pour des scénarios de jeu automatisés.
-- Les étudiants apprendront à extraire des données de jeu en utilisant des techniques de lecture de mémoire, à analyser les mécanismes de jeu et à développer des bots IA simples en utilisant des langages de script.
-- Les sujets abordés incluront les structures de données de jeu, la création de comportements de script et l'intégration de bots IA dans des environnements de test.
+- Acquisition d'une expertise dans le piratage de jeux pour extraire des données pour les tests d'IA et développer des bots de base pour des scénarios de jeu automatisés.
+- Les participants apprendront à extraire des données de jeu en utilisant des techniques de lecture de mémoire, à analyser les mécanismes de jeu et à développer des bots IA simples en utilisant des langages de script.
+- Ils aborderont les structures de données de jeu, la création de comportements de script et l'intégration de bots IA dans des environnements de test.
 
 **Enregistrement Efficace de l'Écran Android et Automatisation**
-- Apprenez des méthodes efficaces pour enregistrer les écrans Android en utilisant OBS et SCR CPY, combinées à l'automatisation à des fins de test.
-- Les étudiants apprendront à configurer un logiciel d'enregistrement d'écran, à capturer la sortie de l'écran Android et à automatiser les interactions avec les applications Android à des fins de test.
-- Les sujets abordés incluront la configuration du logiciel d'enregistrement d'écran, les outils de débogage Android et la scriptisation des interactions avec les applications Android.
+- Apprentissage des méthodes efficaces pour enregistrer les écrans Android en utilisant OBS et SCR CPY, combinées à l'automatisation à des fins de test.
+- Les participants apprendront à configurer un logiciel d'enregistrement d'écran, à capturer la sortie de l'écran Android et à automatiser les interactions avec les applications Android à des fins de test.
+- Ils aborderont la configuration du logiciel d'enregistrement d'écran, les outils de débogage Android et la scriptisation des interactions avec les applications Android.
 
 **Scripting pour les Plateformes Officielles Xbox et PlayStation**
-- Développer des compétences de scripting pour les plateformes officielles Xbox et PlayStation sans utiliser de kits de développement, améliorant ainsi les capacités de test pour les jeux de console.
-- Les étudiants apprendront à développer des scripts pour interagir avec les API de console, capturer des séquences de jeu et automatiser les procédures de test.
-- Les sujets abordés incluront la documentation de l'API de console, la communication réseau avec les consoles et l'intégration du scripting dans les flux de travail de test de console.
+- Développement de compétences de scripting pour les plateformes officielles Xbox et PlayStation sans utiliser de kits de développement, améliorant ainsi les capacités de test pour les jeux de console.
+- Les participants apprendront à développer des scripts pour interagir avec les API de console, capturer des séquences de jeu et automatiser les procédures de test.
+- Ils aborderont la documentation de l'API de console, la communication réseau avec les consoles et l'intégration du scripting dans les flux de travail de test de console.
 
 
 
+# 28 Collaboration Efficace avec Git
 
+- Fondamentaux de Git !
+  - Utilisation de Git pour la collaboration en équipe, même pour les non-programmeurs.
+  - Prévention de la perte de documents grâce à des pratiques Git essentielles.
+  - Garantie de l'accessibilité des documents sur tous les appareils avec Git.
+  - Simplification de l'expérience Git grâce à des interfaces graphiques conviviales.
 
-# 28 Flux de Travail Collaboratif avec Git
+# Liste des Modules Proposés
 
-- Les Bases de Git !
-  - Comment utiliser Git pour la collaboration en équipe (non-programmeurs).
-  - Prévenir la perte de documents avec Git : pratiques essentielles.
-  - Assurer l'accessibilité des documents sur tous les appareils avec Git.
-  - Simplifier l'utilisation de Git avec des interfaces graphiques.
-
------------------
-
-# Liste Thématique
-
-## Liste des Modules Possibles
+## Modules Suggérés
 
 - 1 semaine: Introduction à Git pour la Collaboration en Équipe (Non-Programmeurs)
-- 1 semaine: Prévention de la Perte de Documents avec des Pratiques Git Essentielles
+- 1 semaine: Pratiques Git Essentielles pour Prévenir la Perte de Documents
 - 1 semaine: Assurer l'Accessibilité des Documents sur Tous les Appareils avec Git
-- 1 semaine: Simplification de l'Utilisation de Git avec des Interfaces Graphiques
+- 1 semaine: Utilisation Simplifiée de Git avec des Interfaces Graphiques
 
 ## Description des Modules
 
 **Introduction à Git pour la Collaboration en Équipe (Non-Programmeurs)**
-- Ce module propose une introduction à Git adaptée aux non-programmeurs, en mettant l'accent sur son utilisation pour la collaboration en équipe.
-- Les étudiants apprendront les bases du contrôle de version, la création de dépôts, la validation des changements et la collaboration avec d'autres utilisateurs à l'aide de Git.
-- Les sujets abordés incluront la compréhension des flux de travail Git, la gestion des branches, la résolution des conflits et l'utilisation de Git dans un environnement d'équipe.
+- Ce module propose une introduction à Git adaptée aux non-programmeurs, mettant l'accent sur son utilisation pour la collaboration en équipe.
+- Les participants apprendront les bases du contrôle de version, la création de dépôts, la validation des changements et la collaboration avec d'autres utilisateurs.
+- Les sujets abordés incluront la compréhension des flux de travail Git, la gestion des branches et la résolution des conflits.
 
-**Prévention de la Perte de Documents avec des Pratiques Git Essentielles**
-- Explorez les pratiques Git essentielles pour prévenir la perte de documents et assurer l'intégrité des fichiers et des projets.
-- Les étudiants apprendront les meilleures pratiques de contrôle de version telles que les validations fréquentes, les messages de validation significatifs et l'utilisation de branches pour l'expérimentation.
-- Les sujets abordés incluront les stratégies de branching, la fusion des changements, le retour en arrière des validations et la récupération des données perdues dans Git.
+**Pratiques Git Essentielles pour Prévenir la Perte de Documents**
+- Exploration des pratiques Git essentielles pour éviter la perte de documents et garantir l'intégrité des fichiers et des projets.
+- Les participants apprendront les meilleures pratiques telles que les validations fréquentes, les messages de validation significatifs et l'utilisation de branches pour l'expérimentation.
+- Les sujets abordés incluront les stratégies de branching, la fusion des changements et la récupération des données perdues.
 
 **Assurer l'Accessibilité des Documents sur Tous les Appareils avec Git**
 - Ce module se concentre sur l'utilisation de Git pour garantir l'accessibilité des documents sur plusieurs appareils et plates-formes.
-- Les étudiants apprendront des techniques pour gérer les documents avec Git, y compris le suivi des modifications, la synchronisation des fichiers entre les appareils et la résolution des problèmes de compatibilité.
-- Les sujets abordés incluront l'organisation des fichiers, l'utilisation de Git avec des services de stockage cloud et l'optimisation de l'accessibilité des documents pour différents appareils et tailles d'écran.
+- Les participants apprendront des techniques pour gérer les documents avec Git, y compris le suivi des modifications et la synchronisation des fichiers entre les appareils.
+- Les sujets abordés incluront l'organisation des fichiers, l'utilisation de Git avec des services de stockage cloud et l'optimisation de l'accessibilité des documents pour différents appareils.
 
-**Simplification de l'Utilisation de Git avec des Interfaces Graphiques**
-- Explorez les interfaces graphiques qui simplifient l'utilisation de Git pour les utilisateurs non techniques.
-- Les étudiants apprendront à utiliser des outils GUI Git populaires pour effectuer des tâches courantes de contrôle de version telles que la validation des changements, la gestion des branches et la résolution des conflits.
-- Les sujets abordés incluront un aperçu des outils GUI Git, la navigation dans les dépôts, la visualisation de l'historique du projet et l'intégration des interfaces graphiques avec les flux de travail Git.
-
+**Utilisation Simplifiée de Git avec des Interfaces Graphiques**
+- Exploration des interfaces graphiques simplifiant l'utilisation de Git pour les utilisateurs non techniques.
+- Les participants apprendront à utiliser des outils GUI Git populaires pour effectuer des tâches de contrôle de version telles que la validation des changements et la gestion des branches.
+- Les sujets abordés incluront un aperçu des outils GUI Git et leur intégration dans les flux de travail Git.
 
 
