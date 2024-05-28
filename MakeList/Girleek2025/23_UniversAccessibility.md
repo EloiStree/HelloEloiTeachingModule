@@ -1,6 +1,4 @@
-# Accessibility
-
-Enhanced: # Accessibility Innovations
+# Accessibility Innovations
 
 - Employ Fusion 360 to fabricate hardware components, complemented by software solutions, aimed at enhancing accessibility and improving daily life.
 - Engineer a personalized AI assistant akin to Alexa using Python, tailored to facilitate automation and accessibility.
