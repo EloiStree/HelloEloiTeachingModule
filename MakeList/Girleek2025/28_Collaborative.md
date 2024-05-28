@@ -1,7 +1,7 @@
-# Collaboration
+# Collaborative Workflows with Git
 
-- Git!
-  - Comment utiliser Git pour travailler en équipe (non programmeur)
-  - Comment utiliser Git pour ne jamais perdre vos documents
-  - Comment utiliser Git pour ne pas dépendre d'un PC
-  - Comment utiliser Git avec des interfaces graphiques.
+- Git Basics!
+  - How to use Git for team collaboration (non-programmers).
+  - Prevent document loss with Git: essential practices.
+  - Ensuring document accessibility across devices with Git.
+  - Simplifying Git usage with graphical interfaces.
