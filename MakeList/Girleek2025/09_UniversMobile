@@ -1,9 +1,9 @@
 # Univers Mobile
 
-- C'est quoi SCRCPY ?
-- C'est quoi ADB ?
-- Script automatiser à partir d'ADB, SCRCPY et BLE UART
-- Créé des applications Android à partir de Unity3D: super facile
-- Différence entre un téléphone Android et un casque de réalité virtuel Android
-- Utiliser OBS pour enregistrer et automatiser du test sur Mobile.
-- Gestion de flotte avec ADB: MDM vs ADB ?
+- What is SCRCPY?
+- What is ADB?
+- Automated scripting using ADB, SCRCPY, and BLE UART
+- Creating Android applications from Unity3D: incredibly easy
+- Differences between an Android phone and an Android virtual reality headset
+- Using OBS to record and automate mobile testing.
+- Fleet management with ADB: MDM vs ADB?
