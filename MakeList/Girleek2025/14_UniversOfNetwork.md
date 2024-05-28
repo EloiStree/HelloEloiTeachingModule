@@ -1,14 +1,14 @@
 # Univers Infrastructures Réseaux
 
-- TCP, UDP, Websocket, MQTT in Python, C# and Javascript
-  - Learn to use what network in what situation to fetch the best of each language
-- Use of Mirror and Photon for Network in Unity3D C#.
-- Compress data in compress binary package to send on network
-  - Re learn what is bit, a bytes, a mbps and how we can lost precision to compress data.
-  - Every bit count when you are do big app use for year
-  - 0.1 mega bytes for 16512 players in game is 47 Tera bytes per hour...
-  - 3 bytes for the MIDI Network
-  - UART with BLE
+- Utilize TCP, UDP, WebSockets, and MQTT protocols in Python, C#, and JavaScript.
+  - Learn the appropriate network protocol for each scenario to optimize performance across different programming languages.
+- Employ Mirror and Photon for networking in Unity3D using C#.
+- Implement data compression techniques to package data efficiently for transmission over networks.
+  - Revisit concepts such as bits, bytes, and megabits per second to understand how to effectively compress data while acknowledging the loss of precision.
+  - Every bit is crucial, particularly in long-term applications.
+  - For instance, transmitting 0.1 megabytes per second for 16,512 players in a game results in 47 terabytes per hour of data.
+  - Consider the minimal overhead, such as the 3 bytes required for MIDI networking.
+  - Explore the use of UART with Bluetooth Low Energy (BLE) for efficient communication.
     
   
 
