@@ -1,16 +1,15 @@
 # Accessibility Innovations
 
-- Employ Fusion 360 to fabricate hardware components, complemented by software solutions, aimed at enhancing accessibility and improving daily life.
-- Engineer a personalized AI assistant akin to Alexa using Python, tailored to facilitate automation and accessibility.
-- Utilize 3D printing technology to produce customized shapes and structures designed specifically for accessibility needs.
-- Develop a Raspberry Pi Pico-based keyboard tailored for individuals with disabilities, promoting inclusivity and ease of use.
-- Harness Unity to create augmented reality applications with OpenCV and Vuforia webcam support in C#, fostering accessibility through innovative visual aids.
-- Integrate ChatGPT as an image recognition tool with voice assistance capabilities, catering to the needs of visually impaired individuals.
-- Explore the potential of Oculus Quest 3(+) to provide enhanced visual experiences for the blind, offering a new dimension of accessibility through immersive technologies.
-- Implement Python automation solutions to enable hospitalized patients, particularly those recovering from accidents, to seamlessly access and utilize the internet, enhancing connectivity and well-being.
-- Pioneer Python automation techniques to empower gamers facing physical challenges such as limb loss, ensuring uninterrupted gaming experiences.
-- Employ native code in Windows to provide auditory context and assistance for individuals with compromised vision, offering invaluable support for navigating digital environments.
-
+- Use Fusion 360 for hardware design, coupled with software, to enhance accessibility.
+- Develop a Python-based Alexa alternative for automation tailored to individual needs.
+- 3D print custom shapes for accessibility requirements.
+- Build a Raspberry Pi Pico keyboard for users with disabilities.
+- Implement Unity for augmented reality applications with webcam support (OpenCV, Vuforia) in C#.
+- Enable ChatGPT for image recognition with voice for the visually impaired.
+- Explore Oculus Quest 3(+) for enhanced visual experiences for the blind.
+- Employ Python automation for hospital patients to access the internet post-accident.
+- Utilize Python automation to aid gamers with physical impairments.
+- Leverage native Windows code to provide audio context for visually impaired users.
 
 - ------------------
 
