@@ -1,10 +1,4 @@
-# Univers DOTNET
-
-- Les fondamentaux de C#, DOTNET Core
-- Basics of OOP in C#
-
-# 1. C#
-
+# 01 Univers DOTNET
 
 - Exploring C#:
   - Building a console application using Visual Studio 2022
