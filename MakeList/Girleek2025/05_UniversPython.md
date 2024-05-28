@@ -12,6 +12,13 @@ Here are the corrected spellings and formatting:
 - Use of ChatGPT API on OpenAI from Python
 - Use of Whisper Offline on Windows with Python
 
+Raspberry Pi Pico:
+- Learn Python applied to Raspberry Pi Pico
+- Learn to simulate keyboard, joystick, and mouse from Raspberry Pi Pico
+- Learn to use Bluetooth and USB cable to control the Raspberry Pi from a computer
+- Apply the Bluetooth control on: computer, Xbox, phone
+  
+
 
 ------------------------------------------
 
