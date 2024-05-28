@@ -1,7 +1,8 @@
 # 2. Java
 
-- Certification 1Z0-851 : [Amazon Link](https://www.amazon.com.be/-/en/Bert-Bates/dp/0072260882) 
-- Java to create native add-on on Unity3D
-- Use of Java [Robot](https://docs.oracle.com/javase/8/docs/api/java/awt/Robot.html) for automation
-  - Use of UDP and WebSocket client 
-- Use of RSA key pair in Java
+
+- Prepare for Certification 1Z0-851: [Amazon Link](https://www.amazon.com.be/-/en/Bert-Bates/dp/0072260882)
+- Harnessing Java for Developing Native Add-ons in Unity3D
+- Automating Tasks with Java's [Robot](https://docs.oracle.com/javase/8/docs/api/java/awt/Robot.html) Utility
+  - Employing UDP and WebSocket Clients for Automation
+- Implementing RSA Key Pair Encryption in Java
