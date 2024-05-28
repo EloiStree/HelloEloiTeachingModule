@@ -1,24 +1,23 @@
 # 5. Python
 
-Here are the corrected spellings and formatting:
-- Fondamentaux de Python
-- HID, XInput, Keyboard, PostMessage, MIDI, Android ADB, BLE UART...
-  - Use of Python to read any input
-  - Use of Python to write any input
-- Python to help handicapped people
-- Python for LM Studio (offline AI models API)
-- Python: UDP, TCP, WebSocket Server-Client
-- Basics of RSA keys with Python
-- Use of ChatGPT API on OpenAI from Python
-- Use of Whisper Offline on Windows with Python
 
-Raspberry Pi Pico:
-- Learn Python applied to Raspberry Pi Pico
-- Learn to simulate keyboard, joystick, and mouse from Raspberry Pi Pico
-- Learn to use Bluetooth and USB cable to control the Raspberry Pi from a computer
-- Apply the Bluetooth control on: computer, Xbox, phone
-  
+**Python Essentials:**
+- Mastering Python Fundamentals
+- Exploring HID, XInput, Keyboard, PostMessage, MIDI, Android ADB, BLE UART integration
+  - Utilizing Python for universal input reading
+  - Implementing Python for versatile input generation
+- Empowering Accessibility with Python
+- Python for LM Studio: Offline AI Models API
+- Networking in Python: UDP, TCP, WebSocket Server-Client
+- Introduction to RSA Key Basics with Python
+- Leveraging the ChatGPT API on OpenAI with Python
+- Offline Whisper Integration on Windows with Python
 
+**Raspberry Pi Pico:**
+- Python Mastery for Raspberry Pi Pico Applications
+- Simulating Keyboard, Joystick, and Mouse Functions with Raspberry Pi Pico
+- Utilizing Bluetooth and USB Cable Connectivity for Raspberry Pi Control from a Computer
+- Extending Bluetooth Control to Computers, Xbox, and Phones
 
 ------------------------------------------
 
