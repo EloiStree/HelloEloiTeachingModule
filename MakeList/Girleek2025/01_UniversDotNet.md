@@ -5,7 +5,6 @@
 
 # Workshop
 
-Here's an enhanced version:
 
 - Exploring C#:
   - Building a console application using Visual Studio 2022
