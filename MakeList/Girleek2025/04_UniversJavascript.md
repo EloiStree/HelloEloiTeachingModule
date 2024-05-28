@@ -1,9 +1,7 @@
 # 4. Univers Javascript
 
-- Les fondamentaux de Javascript
-  - Var, function, thread, lib,
-- Scrapping of website using Tamper Monkey to learn the basic of Javascript
-- Use of local unsecured websocket client server to create interface in HTML5 format
-- Read XInput, keyboard and others input in a HTML page with Javascript
-
-
+- Mastering the Essentials of JavaScript
+  - Variables, functions, threads, libraries
+- Web Scraping with Tampermonkey: A Practical Introduction to JavaScript
+- Leveraging local, unsecured WebSocket client-server communication for creating HTML5 interfaces
+- Implementing Input Reading for XInput, keyboard, and other devices within an HTML page using JavaScript
