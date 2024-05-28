@@ -11,7 +11,7 @@
 - Pioneer Python automation techniques to empower gamers facing physical challenges such as limb loss, ensuring uninterrupted gaming experiences.
 - Employ native code in Windows to provide auditory context and assistance for individuals with compromised vision, offering invaluable support for navigating digital environments.
 
-- 
+
 - ------------------
 
 
