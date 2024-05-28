@@ -318,14 +318,13 @@
   - Création de clés RSA avec Python
   - Chiffrement et déchiffrement des données en utilisant RSA
   - Exemples pratiques et meilleures pratiques
-- **
-
+-
 
 
 
 # 06 Web
 
-**Exploring OGame through Code: A Journey in HTML, Selenium, and Web Scraping**
+**Exploring OGame à travers le Code:  HTML, Selenium, et Web Scraping**
 - Plongez dans OGame avec du Code pour Maîtriser HTML, Selenium et les Techniques de Scraping
   - Exploiter Tampermonkey pour le Scraping de Site Web et l'Injection HTML
   - Utiliser Selenium en C# pour l'Extraction Efficace de Pages HTML de Site Web
