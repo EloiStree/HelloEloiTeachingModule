@@ -1,9 +1,9 @@
-# Testing
+Revamped: #26 Enhanced Testing Capabilities
 
-- Learn python to Automate any automation with raw input: keyboard, joystick, Xinput, MIDI ...
-- Scrap information of application to create log while testing application and game
-- Be able to read and write any input on Window
-- Learn to hack game to allows testing
-- Learn to hack game to scrap data for AI testing and basic bot.
-- Learn to record Android Screen with OBS and SCR CPY with automation
-- Learn to create scripting on official Xbox and Playstation with Dev Kit.
+- Master Python to automate various inputs: keyboard, joystick, Xinput, MIDI, etc.
+- Utilize scraping techniques to gather application and game data for comprehensive testing logs.
+- Acquire proficiency in reading and writing any input on Windows for thorough testing procedures.
+- Explore game hacking techniques to enable advanced testing methodologies.
+- Gain expertise in hacking games to extract data for AI testing and develop basic bots.
+- Learn to record Android screens efficiently using OBS and SCR CPY, combined with automation.
+- Develop scripting skills for official Xbox and PlayStation platforms without using Dev Kits, enhancing testing capabilities.
