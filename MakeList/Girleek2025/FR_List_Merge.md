@@ -10,7 +10,6 @@
   - Comment utiliser C++ pour des projets avec Arduino
   - Introduction à la programmation pour Arduino
 
---------------
 
 # Liste thématique
 
@@ -91,7 +90,6 @@
   - Utilisation de clients UDP et WebSocket pour l'automatisation
 - Mettez en œuvre le chiffrement de paires de clés RSA en Java
 
-----------------------
 
 # Liste thématique
 
@@ -112,6 +110,7 @@
 - Exercices pratiques et tests d'évaluation
 
 **Utilisation de Java pour créer des modules complémentaires natifs dans Unity3D**
+
 - Introduction à Unity3D et ses modules complémentaires natifs
 - Configuration d'un projet Java pour l'intégration avec Unity3D
 - Création et gestion de modules complémentaires natifs avec Java
@@ -146,7 +145,6 @@
 - Utilisation de la communication client-serveur WebSocket locale et non sécurisée pour créer des interfaces HTML5
 - Implémentation de la Lecture d'Entrée pour XInput, clavier et autres appareils dans une page HTML en utilisant JavaScript
 
----------------------
 
 # Liste thématique
 
@@ -205,9 +203,7 @@
 - Utilisation de la Connectivité Bluetooth et par Câble USB pour le Contrôle du Raspberry Pi depuis un Ordinateur
 - Extension du Contrôle Bluetooth aux Ordinateurs, Xbox et Téléphones
 
-------------------------------------------
 
------------------------------------------------
 
 # Liste thématique
 
@@ -265,10 +261,7 @@
   - Implémentation de commandes vocales avec Python
   - Utilisation de la bibliothèque `speech_recognition`
   - Applications pratiques pour les systèmes de contrôle vocal
-- **Partie 3: Vision et Détection d'Objets**
-  - Introduction à la vision par ordinateur avec Python
-  - Bibliothèques pour la détection d'objets (`OpenCV`, `TensorFlow`)
-  - Création d'outils d'accessibilité basés sur la vision
+
 
 **Python pour l'IA et les Modèles Hors Ligne**
 - **Partie 1: Modèles Locaux et LM Studio**
@@ -291,10 +284,9 @@
   - Cas d'utilisation et exemples
 
 **Bases de la Cryptographie avec Python**
-- **Partie 1: Introduction à la Cryptographie**
-  - Concepts et terminologie de la cryptographie
-  - Applications modernes
-  - Configuration des bibliothèques cryptographiques en Python
+- **Partie 1: Introduction à la Cryptographie RSA**
+  - Concepts et terminologie de la cryptographie RSA
+  - Configuration des bibliothèques cryptographiques RSA en Python
 - **Partie 2: Chiffrement Symétrique et Asymétrique**
   - Compréhension du chiffrement symétrique
   - Introduction à RSA et au chiffrement asymétrique
@@ -302,7 +294,7 @@
 - **Partie 3: Génération et Gestion des Clés RSA**
   - Création de clés RSA
   - Chiffrement et déchiffrement des données
-  - Exemples pratiques et meilleures pratiquesv
+  - Exemples pratiques et transmissions
 
 
 
@@ -312,6 +304,7 @@
 - Plongez dans l'univers d'OGame en utilisant du code pour maîtriser HTML, Selenium et les techniques de scraping web.
   - Exploitation de Tampermonkey pour le scraping de sites web et l'injection HTML.
   - Utilisation de Selenium en C# pour extraire efficacement des pages HTML de sites web.
+  - Utilisation de Selenium en C# pour interagir avec le site web.
   - Découverte des bases de HTML en modifiant un vieux jeu sur un site web.
 
 --------------------
@@ -544,7 +537,7 @@
 
 **Protection des Fichiers de Jeu contre les Modifications en Utilisant le Hachage**
 - Introduction aux algorithmes de hachage et leur importance
-- Implémentation
+- Implémentation d'un protection fichier par hachage
 
 
 
@@ -647,10 +640,10 @@
 - Utilisation de technologies de réalité augmentée combinées à des outils de vision par ordinateur pour créer des expériences interactives.
 - Ce module enseignera le développement d'applications AR immersives pour diverses applications, y compris l'assistance aux personnes handicapées.
 
----
 
 
-# 24 Ensemble Complet d'Outils d'IA
+
+# 24 Ensemble d'outils d'IA
 
 - Intégration fluide de l'API OpenAI avec Python et C# pour une utilisation flexible (Console ou Unity3D).
 - Utilisation de LM Studio avec Python pour développer des capacités d'IA hors ligne.
@@ -686,9 +679,9 @@
 **Tests Automatisés de Jeux et d'Applications avec le Web Scraping et l'IA**
 - Exploration des techniques de scraping pour collecter des données de jeux et d'applications en vue de tests automatisés pilotés par l'IA.
 - Les participants acquerront des compétences dans l'extraction de données à partir de diverses sources telles que les magasins d'applications et les référentiels de jeux en utilisant des outils et des méthodes de web scraping.
-- Ils découvriront l'extraction de données, le prétraitement des données et la formation de modèles d'IA pour automatiser le processus de test basé sur les informations récupérées.
+- Ils découvriront l'extraction de données, le prétraitement des données.
 
----
+
 
 # 26 Amélioration des Capacités de Test
 
