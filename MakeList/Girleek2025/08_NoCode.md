@@ -1,4 +1,4 @@
-# No Code
+# 08 No Code
 
 - Learn to make a video game without code on Scratch to learn programming.
 - Learn to create a Stream Deck in Scratch to interact with external applications.
