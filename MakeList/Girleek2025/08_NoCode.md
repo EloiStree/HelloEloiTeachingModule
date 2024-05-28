@@ -1,10 +1,8 @@
 # No Code
 
-- Apprendre à faire un jeu vidéo sans code sur Scratch pour apprendre la programmation.
-- Apprendre à créer un Stream Deck dans Scratch pour interagir avec des applications extérieures.
-- Créer des effets visuels en Unity3D sans aucun code : Particle System et Shader Graph.
-
-
+- Learn to make a video game without code on Scratch to learn programming.
+- Learn to create a Stream Deck in Scratch to interact with external applications.
+- Create visual effects in Unity3D without any code: Particle System and Shader Graph.
 
 # Scratch 
 
