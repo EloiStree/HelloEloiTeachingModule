@@ -1,4 +1,4 @@
-# Web
+# 06 Web
 
 **Exploring OGame through Code: A Journey in HTML, Selenium, and Web Scraping**
 - Dive into OGame with Code to Master HTML, Selenium, and Scraping Techniques
